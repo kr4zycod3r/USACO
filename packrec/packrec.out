@@ -1,0 +1,10338 @@
+
+sanity check1:a[0][0]=1 2
+i=0 l1=1 b1=2
+l2=2 b2=1
+
+sanity check1:a[0][0]=1 2
+i=2 l1=2 b1=3
+l2=3 b2=2
+
+sanity check1:a[0][0]=1 2
+i=4 l1=3 b1=4
+l2=4 b2=3
+
+sanity check1:a[0][0]=1 2
+i=6 l1=4 b1=5
+l2=5 b2=4
+
+sanity check2:a[0][0]=1 2
+
+i=0,j=2,k=4,l=6
+
+placed 1,2
+
+placed 2,3
+
+placed 3,4
+
+placed 4,5
+
+place complete
+after place i=0,j=2,k=4,l=6
+
+enclose entered
+
+l1=1,b1=2,l2=2,b2=3,l3=3,b3=4,l4=4,b4=5
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=9,min area=56
+Layout3:l=6,b=9,min area=54
+Layout4:l=5,b=11,min area=54,placed in 16 and 32767
+Layout5:l=4,b=12,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=2,k=4,l=6
+
+i=0,j=2,k=4,l=7
+
+placed 1,2
+
+placed 2,3
+
+placed 3,4
+
+placed 5,4
+
+place complete
+after place i=0,j=2,k=4,l=7
+
+enclose entered
+
+l1=1,b1=2,l2=2,b2=3,l3=3,b3=4,l4=5,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=7,b=9,min area=63
+Layout4:l=5,b=10,min area=50,placed in 16 and 32767
+Layout5:l=5,b=11,min area=50
+Layout6:l=8,b=7,min area=50
+
+enclose complete n=1
+
+new i=0,j=2,k=4,l=7
+
+exits l
+
+i=0,j=2,k=5,l=6
+
+placed 1,2
+
+placed 2,3
+
+placed 4,3
+
+placed 4,5
+
+place complete
+after place i=0,j=2,k=5,l=6
+
+enclose entered
+
+l1=1,b1=2,l2=2,b2=3,l3=4,b3=3,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=8,min area=52
+Layout3:l=6,b=8,min area=48
+Layout4:l=6,b=10,min area=48,placed in 16 and 32767
+Layout5:l=4,b=11,min area=44
+Layout6:l=8,b=8,min area=44
+
+enclose complete n=1
+
+new i=0,j=2,k=5,l=6
+
+i=0,j=2,k=5,l=7
+
+placed 1,2
+
+placed 2,3
+
+placed 4,3
+
+placed 5,4
+
+place complete
+after place i=0,j=2,k=5,l=7
+
+enclose entered
+
+l1=1,b1=2,l2=2,b2=3,l3=4,b3=3,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=8,min area=60
+Layout3:l=7,b=8,min area=56
+Layout4:l=6,b=9,min area=54,placed in 16 and 32767
+Layout5:l=5,b=10,min area=50
+Layout6:l=9,b=7,min area=50
+
+enclose complete n=1
+
+new i=0,j=2,k=5,l=7
+
+exits l
+
+i=0,j=2,k=6,l=4
+
+placed 1,2
+
+placed 2,3
+
+placed 4,5
+
+placed 3,4
+
+place complete
+after place i=0,j=2,k=6,l=4
+
+enclose entered
+
+l1=1,b1=2,l2=2,b2=3,l3=4,b3=5,l4=3,b4=4
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=10,min area=56
+Layout3:l=5,b=10,min area=50
+Layout4:l=6,b=11,min area=50,placed in 16 and 32767
+Layout5:l=4,b=12,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=0,j=2,k=6,l=4
+
+i=0,j=2,k=6,l=5
+
+placed 1,2
+
+placed 2,3
+
+placed 4,5
+
+placed 4,3
+
+place complete
+after place i=0,j=2,k=6,l=5
+
+enclose entered
+
+l1=1,b1=2,l2=2,b2=3,l3=4,b3=5,l4=4,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=6,b=10,min area=52,placed in 16 and 32767
+Layout5:l=4,b=11,min area=44
+Layout6:l=8,b=7,min area=44
+
+enclose complete n=1
+
+new i=0,j=2,k=6,l=5
+
+exits l
+
+i=0,j=2,k=7,l=4
+
+placed 1,2
+
+placed 2,3
+
+placed 5,4
+
+placed 3,4
+
+place complete
+after place i=0,j=2,k=7,l=4
+
+enclose entered
+
+l1=1,b1=2,l2=2,b2=3,l3=5,b3=4,l4=3,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=5,b=9,min area=45
+Layout4:l=7,b=10,min area=45,placed in 16 and 32767
+Layout5:l=5,b=11,min area=45
+Layout6:l=8,b=7,min area=45
+
+enclose complete n=1
+
+new i=0,j=2,k=7,l=4
+
+i=0,j=2,k=7,l=5
+
+placed 1,2
+
+placed 2,3
+
+placed 5,4
+
+placed 4,3
+
+place complete
+after place i=0,j=2,k=7,l=5
+
+enclose entered
+
+l1=1,b1=2,l2=2,b2=3,l3=5,b3=4,l4=4,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=9,min area=60
+Layout3:l=6,b=9,min area=54
+Layout4:l=7,b=9,min area=54,placed in 16 and 32767
+Layout5:l=5,b=10,min area=50
+Layout6:l=9,b=6,min area=50
+
+enclose complete n=1
+
+new i=0,j=2,k=7,l=5
+
+exits l
+
+exits k
+
+i=0,j=3,k=4,l=6
+
+placed 1,2
+
+placed 3,2
+
+placed 3,4
+
+placed 4,5
+
+place complete
+after place i=0,j=3,k=4,l=6
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=2,l3=3,b3=4,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=7,b=9,min area=52
+Layout4:l=6,b=11,min area=52,placed in 16 and 32767
+Layout5:l=4,b=11,min area=44
+Layout6:l=7,b=7,min area=44
+
+enclose complete n=1
+
+new i=0,j=3,k=4,l=6
+
+i=0,j=3,k=4,l=7
+
+placed 1,2
+
+placed 3,2
+
+placed 3,4
+
+placed 5,4
+
+place complete
+after place i=0,j=3,k=4,l=7
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=2,l3=3,b3=4,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=6,b=10,min area=60,placed in 0 and 0
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=0,j=3,k=4,l=7
+
+exits l
+
+i=0,j=3,k=5,l=6
+
+placed 1,2
+
+placed 3,2
+
+placed 4,3
+
+placed 4,5
+
+place complete
+after place i=0,j=3,k=5,l=6
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=2,l3=4,b3=3,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=7,b=8,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 10
+Layout5:l=4,b=10,min area=40
+Layout6:l=8,b=7,min area=40
+
+enclose complete n=1
+
+new i=0,j=3,k=5,l=6
+
+i=0,j=3,k=5,l=7
+
+placed 1,2
+
+placed 3,2
+
+placed 4,3
+
+placed 5,4
+
+place complete
+after place i=0,j=3,k=5,l=7
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=2,l3=4,b3=3,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=8,b=7,min area=55
+Layout4:l=7,b=9,min area=55,placed in 6 and 10
+Layout5:l=5,b=9,min area=45
+Layout6:l=9,b=6,min area=45
+
+enclose complete n=1
+
+new i=0,j=3,k=5,l=7
+
+exits l
+
+i=0,j=3,k=6,l=4
+
+placed 1,2
+
+placed 3,2
+
+placed 4,5
+
+placed 3,4
+
+place complete
+after place i=0,j=3,k=6,l=4
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=2,l3=4,b3=5,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=6,b=9,min area=52
+Layout4:l=7,b=11,min area=52,placed in 6 and 10
+Layout5:l=4,b=11,min area=44
+Layout6:l=7,b=7,min area=44
+
+enclose complete n=1
+
+new i=0,j=3,k=6,l=4
+
+i=0,j=3,k=6,l=5
+
+placed 1,2
+
+placed 3,2
+
+placed 4,5
+
+placed 4,3
+
+place complete
+after place i=0,j=3,k=6,l=5
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=2,l3=4,b3=5,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=7,b=9,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 10
+Layout5:l=4,b=10,min area=40
+Layout6:l=8,b=7,min area=40
+
+enclose complete n=1
+
+new i=0,j=3,k=6,l=5
+
+exits l
+
+i=0,j=3,k=7,l=4
+
+placed 1,2
+
+placed 3,2
+
+placed 5,4
+
+placed 3,4
+
+place complete
+after place i=0,j=3,k=7,l=4
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=2,l3=5,b3=4,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=6,b=8,min area=48
+Layout4:l=8,b=10,min area=48,placed in 6 and 10
+Layout5:l=5,b=10,min area=48
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=2
+
+new i=0,j=3,k=7,l=4
+
+i=0,j=3,k=7,l=5
+
+placed 1,2
+
+placed 3,2
+
+placed 5,4
+
+placed 4,3
+
+place complete
+after place i=0,j=3,k=7,l=5
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=2,l3=5,b3=4,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=7,b=8,min area=55
+Layout4:l=8,b=9,min area=55,placed in 8 and 6
+Layout5:l=5,b=9,min area=45
+Layout6:l=9,b=6,min area=45
+
+enclose complete n=1
+
+new i=0,j=3,k=7,l=5
+
+exits l
+
+exits k
+
+i=0,j=4,k=2,l=6
+
+placed 1,2
+
+placed 3,4
+
+placed 2,3
+
+placed 4,5
+
+place complete
+after place i=0,j=4,k=2,l=6
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=4,l3=2,b3=3,l4=4,b4=5
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=9,min area=56
+Layout3:l=7,b=9,min area=56
+Layout4:l=5,b=11,min area=55,placed in 8 and 6
+Layout5:l=4,b=12,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=0,j=4,k=2,l=6
+
+i=0,j=4,k=2,l=7
+
+placed 1,2
+
+placed 3,4
+
+placed 2,3
+
+placed 5,4
+
+place complete
+after place i=0,j=4,k=2,l=7
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=4,l3=2,b3=3,l4=5,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=8,b=9,min area=65
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=5,b=11,min area=50
+Layout6:l=7,b=8,min area=50
+
+enclose complete n=1
+
+new i=0,j=4,k=2,l=7
+
+exits l
+
+i=0,j=4,k=3,l=6
+
+placed 1,2
+
+placed 3,4
+
+placed 3,2
+
+placed 4,5
+
+place complete
+after place i=0,j=4,k=3,l=6
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=4,l3=3,b3=2,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=7,b=8,min area=52
+Layout4:l=6,b=11,min area=52,placed in 8 and 6
+Layout5:l=4,b=11,min area=44
+Layout6:l=7,b=9,min area=44
+
+enclose complete n=1
+
+new i=0,j=4,k=3,l=6
+
+i=0,j=4,k=3,l=7
+
+placed 1,2
+
+placed 3,4
+
+placed 3,2
+
+placed 5,4
+
+place complete
+after place i=0,j=4,k=3,l=7
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=4,l3=3,b3=2,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=6,b=10,min area=60,placed in 0 and 0
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=8,min area=50
+
+enclose complete n=1
+
+new i=0,j=4,k=3,l=7
+
+exits l
+
+i=0,j=4,k=6,l=2
+
+placed 1,2
+
+placed 3,4
+
+placed 4,5
+
+placed 2,3
+
+place complete
+after place i=0,j=4,k=6,l=2
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=4,l3=4,b3=5,l4=2,b4=3
+Layout1:l=4,b=14,min area=56
+Layout2:l=6,b=11,min area=56
+Layout3:l=5,b=11,min area=55
+Layout4:l=7,b=10,min area=55,placed in 6 and 10
+Layout5:l=4,b=12,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=0,j=4,k=6,l=2
+
+i=0,j=4,k=6,l=3
+
+placed 1,2
+
+placed 3,4
+
+placed 4,5
+
+placed 3,2
+
+place complete
+after place i=0,j=4,k=6,l=3
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=4,l3=4,b3=5,l4=3,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=11,min area=52
+Layout3:l=6,b=11,min area=52
+Layout4:l=7,b=9,min area=52,placed in 6 and 10
+Layout5:l=4,b=11,min area=44
+Layout6:l=7,b=7,min area=44
+
+enclose complete n=1
+
+new i=0,j=4,k=6,l=3
+
+exits l
+
+i=0,j=4,k=7,l=2
+
+placed 1,2
+
+placed 3,4
+
+placed 5,4
+
+placed 2,3
+
+place complete
+after place i=0,j=4,k=7,l=2
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=4,l3=5,b3=4,l4=2,b4=3
+Layout1:l=5,b=13,min area=65
+Layout2:l=7,b=10,min area=65
+Layout3:l=5,b=10,min area=50
+Layout4:l=8,b=9,min area=50,placed in 6 and 10
+Layout5:l=5,b=11,min area=50
+Layout6:l=7,b=8,min area=50
+
+enclose complete n=1
+
+new i=0,j=4,k=7,l=2
+
+i=0,j=4,k=7,l=3
+
+placed 1,2
+
+placed 3,4
+
+placed 5,4
+
+placed 3,2
+
+place complete
+after place i=0,j=4,k=7,l=3
+
+enclose entered
+
+l1=1,b1=2,l2=3,b2=4,l3=5,b3=4,l4=3,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=10,min area=60
+Layout3:l=6,b=10,min area=60
+Layout4:l=8,b=8,min area=60,placed in 0 and 0
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=0,j=4,k=7,l=3
+
+exits l
+
+exits k
+
+i=0,j=5,k=2,l=6
+
+placed 1,2
+
+placed 4,3
+
+placed 2,3
+
+placed 4,5
+
+place complete
+after place i=0,j=5,k=2,l=6
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=3,l3=2,b3=3,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=8,min area=52
+Layout3:l=8,b=8,min area=52
+Layout4:l=6,b=10,min area=52,placed in 6 and 10
+Layout5:l=5,b=11,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=5,k=2,l=6
+
+i=0,j=5,k=2,l=7
+
+placed 1,2
+
+placed 4,3
+
+placed 2,3
+
+placed 5,4
+
+place complete
+after place i=0,j=5,k=2,l=7
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=3,l3=2,b3=3,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=8,min area=60
+Layout3:l=9,b=8,min area=60
+Layout4:l=6,b=9,min area=54,placed in 6 and 10
+Layout5:l=5,b=10,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=0,j=5,k=2,l=7
+
+exits l
+
+i=0,j=5,k=3,l=6
+
+placed 1,2
+
+placed 4,3
+
+placed 3,2
+
+placed 4,5
+
+place complete
+after place i=0,j=5,k=3,l=6
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=3,l3=3,b3=2,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=8,b=7,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 10
+Layout5:l=5,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=5,k=3,l=6
+
+i=0,j=5,k=3,l=7
+
+placed 1,2
+
+placed 4,3
+
+placed 3,2
+
+placed 5,4
+
+place complete
+after place i=0,j=5,k=3,l=7
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=3,l3=3,b3=2,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=9,b=7,min area=55
+Layout4:l=7,b=9,min area=55,placed in 6 and 10
+Layout5:l=5,b=9,min area=45
+Layout6:l=8,b=7,min area=45
+
+enclose complete n=1
+
+new i=0,j=5,k=3,l=7
+
+exits l
+
+i=0,j=5,k=6,l=2
+
+placed 1,2
+
+placed 4,3
+
+placed 4,5
+
+placed 2,3
+
+place complete
+after place i=0,j=5,k=6,l=2
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=3,l3=4,b3=5,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=8,b=10,min area=52,placed in 6 and 10
+Layout5:l=5,b=11,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=5,k=6,l=2
+
+i=0,j=5,k=6,l=3
+
+placed 1,2
+
+placed 4,3
+
+placed 4,5
+
+placed 3,2
+
+place complete
+after place i=0,j=5,k=6,l=3
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=3,l3=4,b3=5,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=7,b=10,min area=48
+Layout4:l=8,b=9,min area=48,placed in 6 and 10
+Layout5:l=5,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=5,k=6,l=3
+
+exits l
+
+i=0,j=5,k=7,l=2
+
+placed 1,2
+
+placed 4,3
+
+placed 5,4
+
+placed 2,3
+
+place complete
+after place i=0,j=5,k=7,l=2
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=3,l3=5,b3=4,l4=2,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=9,min area=60
+Layout3:l=6,b=9,min area=54
+Layout4:l=9,b=9,min area=54,placed in 6 and 10
+Layout5:l=5,b=10,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=0,j=5,k=7,l=2
+
+i=0,j=5,k=7,l=3
+
+placed 1,2
+
+placed 4,3
+
+placed 5,4
+
+placed 3,2
+
+place complete
+after place i=0,j=5,k=7,l=3
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=3,l3=5,b3=4,l4=3,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=9,min area=55
+Layout3:l=7,b=9,min area=55
+Layout4:l=9,b=8,min area=55,placed in 6 and 10
+Layout5:l=5,b=9,min area=45
+Layout6:l=8,b=7,min area=45
+
+enclose complete n=1
+
+new i=0,j=5,k=7,l=3
+
+exits l
+
+exits k
+
+i=0,j=6,k=2,l=4
+
+placed 1,2
+
+placed 4,5
+
+placed 2,3
+
+placed 3,4
+
+place complete
+after place i=0,j=6,k=2,l=4
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=5,l3=2,b3=3,l4=3,b4=4
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=10,min area=56
+Layout3:l=7,b=10,min area=56
+Layout4:l=6,b=11,min area=56,placed in 6 and 10
+Layout5:l=5,b=12,min area=56
+Layout6:l=5,b=9,min area=45
+
+enclose complete n=1
+
+new i=0,j=6,k=2,l=4
+
+i=0,j=6,k=2,l=5
+
+placed 1,2
+
+placed 4,5
+
+placed 2,3
+
+placed 4,3
+
+place complete
+after place i=0,j=6,k=2,l=5
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=5,l3=2,b3=3,l4=4,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=10,min area=52
+Layout3:l=8,b=10,min area=52
+Layout4:l=6,b=10,min area=52,placed in 6 and 10
+Layout5:l=5,b=11,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=6,k=2,l=5
+
+exits l
+
+i=0,j=6,k=3,l=4
+
+placed 1,2
+
+placed 4,5
+
+placed 3,2
+
+placed 3,4
+
+place complete
+after place i=0,j=6,k=3,l=4
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=5,l3=3,b3=2,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=7,b=9,min area=52
+Layout4:l=7,b=11,min area=52,placed in 6 and 10
+Layout5:l=5,b=11,min area=52
+Layout6:l=6,b=9,min area=52
+
+enclose complete n=1
+
+new i=0,j=6,k=3,l=4
+
+i=0,j=6,k=3,l=5
+
+placed 1,2
+
+placed 4,5
+
+placed 3,2
+
+placed 4,3
+
+place complete
+after place i=0,j=6,k=3,l=5
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=5,l3=3,b3=2,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=8,b=9,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 10
+Layout5:l=5,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=6,k=3,l=5
+
+exits l
+
+i=0,j=6,k=4,l=2
+
+placed 1,2
+
+placed 4,5
+
+placed 3,4
+
+placed 2,3
+
+place complete
+after place i=0,j=6,k=4,l=2
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=5,l3=3,b3=4,l4=2,b4=3
+Layout1:l=4,b=14,min area=56
+Layout2:l=6,b=11,min area=56
+Layout3:l=6,b=11,min area=56
+Layout4:l=7,b=10,min area=56,placed in 6 and 10
+Layout5:l=5,b=12,min area=56
+Layout6:l=5,b=9,min area=45
+
+enclose complete n=1
+
+new i=0,j=6,k=4,l=2
+
+i=0,j=6,k=4,l=3
+
+placed 1,2
+
+placed 4,5
+
+placed 3,4
+
+placed 3,2
+
+place complete
+after place i=0,j=6,k=4,l=3
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=5,l3=3,b3=4,l4=3,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=11,min area=52
+Layout3:l=7,b=11,min area=52
+Layout4:l=7,b=9,min area=52,placed in 6 and 10
+Layout5:l=5,b=11,min area=52
+Layout6:l=6,b=9,min area=52
+
+enclose complete n=1
+
+new i=0,j=6,k=4,l=3
+
+exits l
+
+i=0,j=6,k=5,l=2
+
+placed 1,2
+
+placed 4,5
+
+placed 4,3
+
+placed 2,3
+
+place complete
+after place i=0,j=6,k=5,l=2
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=5,l3=4,b3=3,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=8,b=10,min area=52,placed in 6 and 10
+Layout5:l=5,b=11,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=6,k=5,l=2
+
+i=0,j=6,k=5,l=3
+
+placed 1,2
+
+placed 4,5
+
+placed 4,3
+
+placed 3,2
+
+place complete
+after place i=0,j=6,k=5,l=3
+
+enclose entered
+
+l1=1,b1=2,l2=4,b2=5,l3=4,b3=3,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=7,b=10,min area=48
+Layout4:l=8,b=9,min area=48,placed in 6 and 10
+Layout5:l=5,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=6,k=5,l=3
+
+exits l
+
+exits k
+
+i=0,j=7,k=2,l=4
+
+placed 1,2
+
+placed 5,4
+
+placed 2,3
+
+placed 3,4
+
+place complete
+after place i=0,j=7,k=2,l=4
+
+enclose entered
+
+l1=1,b1=2,l2=5,b2=4,l3=2,b3=3,l4=3,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=8,b=9,min area=65
+Layout4:l=7,b=10,min area=65,placed in 6 and 10
+Layout5:l=6,b=11,min area=65
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=7,k=2,l=4
+
+i=0,j=7,k=2,l=5
+
+placed 1,2
+
+placed 5,4
+
+placed 2,3
+
+placed 4,3
+
+place complete
+after place i=0,j=7,k=2,l=5
+
+enclose entered
+
+l1=1,b1=2,l2=5,b2=4,l3=2,b3=3,l4=4,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=9,min area=60
+Layout3:l=9,b=9,min area=60
+Layout4:l=7,b=9,min area=60,placed in 6 and 10
+Layout5:l=6,b=10,min area=60
+Layout6:l=6,b=7,min area=42
+
+enclose complete n=1
+
+new i=0,j=7,k=2,l=5
+
+exits l
+
+i=0,j=7,k=3,l=4
+
+placed 1,2
+
+placed 5,4
+
+placed 3,2
+
+placed 3,4
+
+place complete
+after place i=0,j=7,k=3,l=4
+
+enclose entered
+
+l1=1,b1=2,l2=5,b2=4,l3=3,b3=2,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=8,b=10,min area=60,placed in 6 and 10
+Layout5:l=6,b=10,min area=60
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=7,k=3,l=4
+
+i=0,j=7,k=3,l=5
+
+placed 1,2
+
+placed 5,4
+
+placed 3,2
+
+placed 4,3
+
+place complete
+after place i=0,j=7,k=3,l=5
+
+enclose entered
+
+l1=1,b1=2,l2=5,b2=4,l3=3,b3=2,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=9,b=8,min area=55
+Layout4:l=8,b=9,min area=55,placed in 6 and 10
+Layout5:l=6,b=9,min area=54
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=0,j=7,k=3,l=5
+
+exits l
+
+i=0,j=7,k=4,l=2
+
+placed 1,2
+
+placed 5,4
+
+placed 3,4
+
+placed 2,3
+
+place complete
+after place i=0,j=7,k=4,l=2
+
+enclose entered
+
+l1=1,b1=2,l2=5,b2=4,l3=3,b3=4,l4=2,b4=3
+Layout1:l=5,b=13,min area=65
+Layout2:l=7,b=10,min area=65
+Layout3:l=7,b=10,min area=65
+Layout4:l=8,b=9,min area=65,placed in 6 and 10
+Layout5:l=6,b=11,min area=65
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=7,k=4,l=2
+
+i=0,j=7,k=4,l=3
+
+placed 1,2
+
+placed 5,4
+
+placed 3,4
+
+placed 3,2
+
+place complete
+after place i=0,j=7,k=4,l=3
+
+enclose entered
+
+l1=1,b1=2,l2=5,b2=4,l3=3,b3=4,l4=3,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=10,min area=60
+Layout3:l=8,b=10,min area=60
+Layout4:l=8,b=8,min area=60,placed in 6 and 10
+Layout5:l=6,b=10,min area=60
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=0,j=7,k=4,l=3
+
+exits l
+
+i=0,j=7,k=5,l=2
+
+placed 1,2
+
+placed 5,4
+
+placed 4,3
+
+placed 2,3
+
+place complete
+after place i=0,j=7,k=5,l=2
+
+enclose entered
+
+l1=1,b1=2,l2=5,b2=4,l3=4,b3=3,l4=2,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=9,min area=60
+Layout3:l=7,b=9,min area=60
+Layout4:l=9,b=9,min area=60,placed in 6 and 10
+Layout5:l=6,b=10,min area=60
+Layout6:l=6,b=7,min area=42
+
+enclose complete n=1
+
+new i=0,j=7,k=5,l=2
+
+i=0,j=7,k=5,l=3
+
+placed 1,2
+
+placed 5,4
+
+placed 4,3
+
+placed 3,2
+
+place complete
+after place i=0,j=7,k=5,l=3
+
+enclose entered
+
+l1=1,b1=2,l2=5,b2=4,l3=4,b3=3,l4=3,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=9,min area=55
+Layout3:l=8,b=9,min area=55
+Layout4:l=9,b=8,min area=55,placed in 6 and 10
+Layout5:l=6,b=9,min area=54
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=0,j=7,k=5,l=3
+
+exits l
+
+exits k
+
+exits j
+i=1,j=2,k=4,l=6
+
+placed 2,1
+
+placed 2,3
+
+placed 3,4
+
+placed 4,5
+
+place complete
+after place i=1,j=2,k=4,l=6
+
+enclose entered
+
+l1=2,b1=1,l2=2,b2=3,l3=3,b3=4,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=6,b=9,min area=52
+Layout4:l=5,b=10,min area=50,placed in 6 and 10
+Layout5:l=4,b=12,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=1,j=2,k=4,l=6
+
+i=1,j=2,k=4,l=7
+
+placed 2,1
+
+placed 2,3
+
+placed 3,4
+
+placed 5,4
+
+place complete
+after place i=1,j=2,k=4,l=7
+
+enclose entered
+
+l1=2,b1=1,l2=2,b2=3,l3=3,b3=4,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=7,b=8,min area=56
+Layout4:l=5,b=9,min area=45,placed in 6 and 10
+Layout5:l=5,b=11,min area=45
+Layout6:l=8,b=7,min area=45
+
+enclose complete n=1
+
+new i=1,j=2,k=4,l=7
+
+exits l
+
+i=1,j=2,k=5,l=6
+
+placed 2,1
+
+placed 2,3
+
+placed 4,3
+
+placed 4,5
+
+place complete
+after place i=1,j=2,k=5,l=6
+
+enclose entered
+
+l1=2,b1=1,l2=2,b2=3,l3=4,b3=3,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=6,b=8,min area=48
+Layout4:l=6,b=9,min area=48,placed in 0 and 0
+Layout5:l=4,b=11,min area=44
+Layout6:l=8,b=8,min area=44
+
+enclose complete n=1
+
+new i=1,j=2,k=5,l=6
+
+i=1,j=2,k=5,l=7
+
+placed 2,1
+
+placed 2,3
+
+placed 4,3
+
+placed 5,4
+
+place complete
+after place i=1,j=2,k=5,l=7
+
+enclose entered
+
+l1=2,b1=1,l2=2,b2=3,l3=4,b3=3,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=7,b=7,min area=49
+Layout4:l=6,b=8,min area=48,placed in 6 and 8
+Layout5:l=5,b=10,min area=48
+Layout6:l=9,b=7,min area=48
+
+enclose complete n=1
+
+new i=1,j=2,k=5,l=7
+
+exits l
+
+i=1,j=2,k=6,l=4
+
+placed 2,1
+
+placed 2,3
+
+placed 4,5
+
+placed 3,4
+
+place complete
+after place i=1,j=2,k=6,l=4
+
+enclose entered
+
+l1=2,b1=1,l2=2,b2=3,l3=4,b3=5,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=5,b=9,min area=45
+Layout4:l=6,b=10,min area=45,placed in 6 and 8
+Layout5:l=4,b=12,min area=45
+Layout6:l=7,b=7,min area=45
+
+enclose complete n=1
+
+new i=1,j=2,k=6,l=4
+
+i=1,j=2,k=6,l=5
+
+placed 2,1
+
+placed 2,3
+
+placed 4,5
+
+placed 4,3
+
+place complete
+after place i=1,j=2,k=6,l=5
+
+enclose entered
+
+l1=2,b1=1,l2=2,b2=3,l3=4,b3=5,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=6,b=9,min area=48
+Layout4:l=6,b=9,min area=48,placed in 6 and 8
+Layout5:l=4,b=11,min area=44
+Layout6:l=8,b=6,min area=44
+
+enclose complete n=1
+
+new i=1,j=2,k=6,l=5
+
+exits l
+
+i=1,j=2,k=7,l=4
+
+placed 2,1
+
+placed 2,3
+
+placed 5,4
+
+placed 3,4
+
+place complete
+after place i=1,j=2,k=7,l=4
+
+enclose entered
+
+l1=2,b1=1,l2=2,b2=3,l3=5,b3=4,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=5,b=8,min area=40
+Layout4:l=7,b=9,min area=40,placed in 6 and 8
+Layout5:l=5,b=11,min area=40
+Layout6:l=8,b=7,min area=40
+
+enclose complete n=1
+
+new i=1,j=2,k=7,l=4
+
+i=1,j=2,k=7,l=5
+
+placed 2,1
+
+placed 2,3
+
+placed 5,4
+
+placed 4,3
+
+place complete
+after place i=1,j=2,k=7,l=5
+
+enclose entered
+
+l1=2,b1=1,l2=2,b2=3,l3=5,b3=4,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=6,b=8,min area=48
+Layout4:l=7,b=8,min area=48,placed in 6 and 8
+Layout5:l=5,b=10,min area=48
+Layout6:l=9,b=6,min area=48
+
+enclose complete n=1
+
+new i=1,j=2,k=7,l=5
+
+exits l
+
+exits k
+
+i=1,j=3,k=4,l=6
+
+placed 2,1
+
+placed 3,2
+
+placed 3,4
+
+placed 4,5
+
+place complete
+after place i=1,j=3,k=4,l=6
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=2,l3=3,b3=4,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=7,min area=48
+Layout3:l=7,b=9,min area=48
+Layout4:l=6,b=10,min area=48,placed in 6 and 8
+Layout5:l=5,b=11,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=1,j=3,k=4,l=6
+
+i=1,j=3,k=4,l=7
+
+placed 2,1
+
+placed 3,2
+
+placed 3,4
+
+placed 5,4
+
+place complete
+after place i=1,j=3,k=4,l=7
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=2,l3=3,b3=4,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=8,b=8,min area=55
+Layout4:l=6,b=9,min area=54,placed in 6 and 8
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=1,j=3,k=4,l=7
+
+exits l
+
+i=1,j=3,k=5,l=6
+
+placed 2,1
+
+placed 3,2
+
+placed 4,3
+
+placed 4,5
+
+place complete
+after place i=1,j=3,k=5,l=6
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=2,l3=4,b3=3,l4=4,b4=5
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=6,min area=44
+Layout3:l=7,b=8,min area=44
+Layout4:l=7,b=9,min area=44,placed in 6 and 8
+Layout5:l=5,b=10,min area=44
+Layout6:l=8,b=7,min area=44
+
+enclose complete n=1
+
+new i=1,j=3,k=5,l=6
+
+i=1,j=3,k=5,l=7
+
+placed 2,1
+
+placed 3,2
+
+placed 4,3
+
+placed 5,4
+
+place complete
+after place i=1,j=3,k=5,l=7
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=2,l3=4,b3=3,l4=5,b4=4
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=6,min area=50
+Layout3:l=8,b=7,min area=50
+Layout4:l=7,b=8,min area=50,placed in 6 and 8
+Layout5:l=5,b=9,min area=45
+Layout6:l=9,b=6,min area=45
+
+enclose complete n=1
+
+new i=1,j=3,k=5,l=7
+
+exits l
+
+i=1,j=3,k=6,l=4
+
+placed 2,1
+
+placed 3,2
+
+placed 4,5
+
+placed 3,4
+
+place complete
+after place i=1,j=3,k=6,l=4
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=2,l3=4,b3=5,l4=3,b4=4
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=8,min area=48
+Layout3:l=6,b=9,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 8
+Layout5:l=5,b=11,min area=48
+Layout6:l=7,b=6,min area=42
+
+enclose complete n=1
+
+new i=1,j=3,k=6,l=4
+
+i=1,j=3,k=6,l=5
+
+placed 2,1
+
+placed 3,2
+
+placed 4,5
+
+placed 4,3
+
+place complete
+after place i=1,j=3,k=6,l=5
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=2,l3=4,b3=5,l4=4,b4=3
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=8,min area=44
+Layout3:l=7,b=8,min area=44
+Layout4:l=7,b=9,min area=44,placed in 6 and 8
+Layout5:l=5,b=10,min area=44
+Layout6:l=8,b=6,min area=44
+
+enclose complete n=1
+
+new i=1,j=3,k=6,l=5
+
+exits l
+
+i=1,j=3,k=7,l=4
+
+placed 2,1
+
+placed 3,2
+
+placed 5,4
+
+placed 3,4
+
+place complete
+after place i=1,j=3,k=7,l=4
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=2,l3=5,b3=4,l4=3,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=6,b=8,min area=48
+Layout4:l=8,b=9,min area=48,placed in 6 and 8
+Layout5:l=5,b=10,min area=48
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=2
+
+new i=1,j=3,k=7,l=4
+
+i=1,j=3,k=7,l=5
+
+placed 2,1
+
+placed 3,2
+
+placed 5,4
+
+placed 4,3
+
+place complete
+after place i=1,j=3,k=7,l=5
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=2,l3=5,b3=4,l4=4,b4=3
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=7,min area=50
+Layout3:l=7,b=7,min area=49
+Layout4:l=8,b=8,min area=49,placed in 8 and 6
+Layout5:l=5,b=9,min area=45
+Layout6:l=9,b=5,min area=45
+
+enclose complete n=2
+
+new i=1,j=3,k=7,l=5
+
+exits l
+
+exits k
+
+i=1,j=4,k=2,l=6
+
+placed 2,1
+
+placed 3,4
+
+placed 2,3
+
+placed 4,5
+
+place complete
+after place i=1,j=4,k=2,l=6
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=4,l3=2,b3=3,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=7,b=8,min area=52
+Layout4:l=5,b=10,min area=50,placed in 9 and 5
+Layout5:l=5,b=12,min area=50
+Layout6:l=6,b=9,min area=50
+
+enclose complete n=1
+
+new i=1,j=4,k=2,l=6
+
+i=1,j=4,k=2,l=7
+
+placed 2,1
+
+placed 3,4
+
+placed 2,3
+
+placed 5,4
+
+place complete
+after place i=1,j=4,k=2,l=7
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=4,l3=2,b3=3,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=9,min area=45,placed in 9 and 5
+Layout5:l=5,b=11,min area=45
+Layout6:l=7,b=8,min area=45
+
+enclose complete n=1
+
+new i=1,j=4,k=2,l=7
+
+exits l
+
+i=1,j=4,k=3,l=6
+
+placed 2,1
+
+placed 3,4
+
+placed 3,2
+
+placed 4,5
+
+place complete
+after place i=1,j=4,k=3,l=6
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=4,l3=3,b3=2,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=7,min area=48
+Layout3:l=7,b=7,min area=48
+Layout4:l=6,b=10,min area=48,placed in 9 and 5
+Layout5:l=5,b=11,min area=48
+Layout6:l=7,b=9,min area=48
+
+enclose complete n=1
+
+new i=1,j=4,k=3,l=6
+
+i=1,j=4,k=3,l=7
+
+placed 2,1
+
+placed 3,4
+
+placed 3,2
+
+placed 5,4
+
+place complete
+after place i=1,j=4,k=3,l=7
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=4,l3=3,b3=2,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=8,b=7,min area=55
+Layout4:l=6,b=9,min area=54,placed in 9 and 5
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=8,min area=50
+
+enclose complete n=1
+
+new i=1,j=4,k=3,l=7
+
+exits l
+
+i=1,j=4,k=6,l=2
+
+placed 2,1
+
+placed 3,4
+
+placed 4,5
+
+placed 2,3
+
+place complete
+after place i=1,j=4,k=6,l=2
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=4,l3=4,b3=5,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=5,b=10,min area=50
+Layout4:l=7,b=9,min area=50,placed in 9 and 5
+Layout5:l=5,b=12,min area=50
+Layout6:l=6,b=9,min area=50
+
+enclose complete n=1
+
+new i=1,j=4,k=6,l=2
+
+i=1,j=4,k=6,l=3
+
+placed 2,1
+
+placed 3,4
+
+placed 4,5
+
+placed 3,2
+
+place complete
+after place i=1,j=4,k=6,l=3
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=4,l3=4,b3=5,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=6,b=10,min area=48
+Layout4:l=7,b=8,min area=48,placed in 9 and 5
+Layout5:l=5,b=11,min area=48
+Layout6:l=7,b=6,min area=42
+
+enclose complete n=1
+
+new i=1,j=4,k=6,l=3
+
+exits l
+
+i=1,j=4,k=7,l=2
+
+placed 2,1
+
+placed 3,4
+
+placed 5,4
+
+placed 2,3
+
+place complete
+after place i=1,j=4,k=7,l=2
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=4,l3=5,b3=4,l4=2,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=9,min area=60
+Layout3:l=5,b=9,min area=45
+Layout4:l=8,b=8,min area=45,placed in 9 and 5
+Layout5:l=5,b=11,min area=45
+Layout6:l=7,b=8,min area=45
+
+enclose complete n=1
+
+new i=1,j=4,k=7,l=2
+
+i=1,j=4,k=7,l=3
+
+placed 2,1
+
+placed 3,4
+
+placed 5,4
+
+placed 3,2
+
+place complete
+after place i=1,j=4,k=7,l=3
+
+enclose entered
+
+l1=2,b1=1,l2=3,b2=4,l3=5,b3=4,l4=3,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=9,min area=55
+Layout3:l=6,b=9,min area=54
+Layout4:l=8,b=7,min area=54,placed in 9 and 5
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=1,j=4,k=7,l=3
+
+exits l
+
+exits k
+
+i=1,j=5,k=2,l=6
+
+placed 2,1
+
+placed 4,3
+
+placed 2,3
+
+placed 4,5
+
+place complete
+after place i=1,j=5,k=2,l=6
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=3,l3=2,b3=3,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=8,b=8,min area=48
+Layout4:l=6,b=9,min area=48,placed in 9 and 5
+Layout5:l=6,b=11,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=1,j=5,k=2,l=6
+
+i=1,j=5,k=2,l=7
+
+placed 2,1
+
+placed 4,3
+
+placed 2,3
+
+placed 5,4
+
+place complete
+after place i=1,j=5,k=2,l=7
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=3,l3=2,b3=3,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=9,b=7,min area=55
+Layout4:l=6,b=8,min area=48,placed in 6 and 8
+Layout5:l=6,b=10,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=1,j=5,k=2,l=7
+
+exits l
+
+i=1,j=5,k=3,l=6
+
+placed 2,1
+
+placed 4,3
+
+placed 3,2
+
+placed 4,5
+
+place complete
+after place i=1,j=5,k=3,l=6
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=3,l3=3,b3=2,l4=4,b4=5
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=6,min area=44
+Layout3:l=8,b=7,min area=44
+Layout4:l=7,b=9,min area=44,placed in 6 and 8
+Layout5:l=6,b=10,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=1,j=5,k=3,l=6
+
+i=1,j=5,k=3,l=7
+
+placed 2,1
+
+placed 4,3
+
+placed 3,2
+
+placed 5,4
+
+place complete
+after place i=1,j=5,k=3,l=7
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=3,l3=3,b3=2,l4=5,b4=4
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=6,min area=50
+Layout3:l=9,b=6,min area=50
+Layout4:l=7,b=8,min area=50,placed in 6 and 8
+Layout5:l=6,b=9,min area=50
+Layout6:l=8,b=7,min area=50
+
+enclose complete n=1
+
+new i=1,j=5,k=3,l=7
+
+exits l
+
+i=1,j=5,k=6,l=2
+
+placed 2,1
+
+placed 4,3
+
+placed 4,5
+
+placed 2,3
+
+place complete
+after place i=1,j=5,k=6,l=2
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=3,l3=4,b3=5,l4=2,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=9,min area=48
+Layout3:l=6,b=9,min area=48
+Layout4:l=8,b=9,min area=48,placed in 6 and 8
+Layout5:l=6,b=11,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=1,j=5,k=6,l=2
+
+i=1,j=5,k=6,l=3
+
+placed 2,1
+
+placed 4,3
+
+placed 4,5
+
+placed 3,2
+
+place complete
+after place i=1,j=5,k=6,l=3
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=3,l3=4,b3=5,l4=3,b4=2
+Layout1:l=4,b=11,min area=44
+Layout2:l=7,b=9,min area=44
+Layout3:l=7,b=9,min area=44
+Layout4:l=8,b=8,min area=44,placed in 6 and 8
+Layout5:l=6,b=10,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=1,j=5,k=6,l=3
+
+exits l
+
+i=1,j=5,k=7,l=2
+
+placed 2,1
+
+placed 4,3
+
+placed 5,4
+
+placed 2,3
+
+place complete
+after place i=1,j=5,k=7,l=2
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=3,l3=5,b3=4,l4=2,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=8,min area=55
+Layout3:l=6,b=8,min area=48
+Layout4:l=9,b=8,min area=48,placed in 6 and 8
+Layout5:l=6,b=10,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=1,j=5,k=7,l=2
+
+i=1,j=5,k=7,l=3
+
+placed 2,1
+
+placed 4,3
+
+placed 5,4
+
+placed 3,2
+
+place complete
+after place i=1,j=5,k=7,l=3
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=3,l3=5,b3=4,l4=3,b4=2
+Layout1:l=5,b=10,min area=50
+Layout2:l=8,b=8,min area=50
+Layout3:l=7,b=8,min area=50
+Layout4:l=9,b=7,min area=50,placed in 6 and 8
+Layout5:l=6,b=9,min area=50
+Layout6:l=8,b=7,min area=50
+
+enclose complete n=1
+
+new i=1,j=5,k=7,l=3
+
+exits l
+
+exits k
+
+i=1,j=6,k=2,l=4
+
+placed 2,1
+
+placed 4,5
+
+placed 2,3
+
+placed 3,4
+
+place complete
+after place i=1,j=6,k=2,l=4
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=5,l3=2,b3=3,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=7,b=9,min area=52
+Layout4:l=6,b=10,min area=52,placed in 6 and 8
+Layout5:l=6,b=12,min area=52
+Layout6:l=6,b=9,min area=52
+
+enclose complete n=1
+
+new i=1,j=6,k=2,l=4
+
+i=1,j=6,k=2,l=5
+
+placed 2,1
+
+placed 4,5
+
+placed 2,3
+
+placed 4,3
+
+place complete
+after place i=1,j=6,k=2,l=5
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=5,l3=2,b3=3,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=8,b=9,min area=48
+Layout4:l=6,b=9,min area=48,placed in 6 and 8
+Layout5:l=6,b=11,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=1,j=6,k=2,l=5
+
+exits l
+
+i=1,j=6,k=3,l=4
+
+placed 2,1
+
+placed 4,5
+
+placed 3,2
+
+placed 3,4
+
+place complete
+after place i=1,j=6,k=3,l=4
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=5,l3=3,b3=2,l4=3,b4=4
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=8,min area=48
+Layout3:l=7,b=8,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 8
+Layout5:l=6,b=11,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=1,j=6,k=3,l=4
+
+i=1,j=6,k=3,l=5
+
+placed 2,1
+
+placed 4,5
+
+placed 3,2
+
+placed 4,3
+
+place complete
+after place i=1,j=6,k=3,l=5
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=5,l3=3,b3=2,l4=4,b4=3
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=8,min area=44
+Layout3:l=8,b=8,min area=44
+Layout4:l=7,b=9,min area=44,placed in 6 and 8
+Layout5:l=6,b=10,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=1,j=6,k=3,l=5
+
+exits l
+
+i=1,j=6,k=4,l=2
+
+placed 2,1
+
+placed 4,5
+
+placed 3,4
+
+placed 2,3
+
+place complete
+after place i=1,j=6,k=4,l=2
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=5,l3=3,b3=4,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=7,b=9,min area=52,placed in 6 and 8
+Layout5:l=6,b=12,min area=52
+Layout6:l=6,b=9,min area=52
+
+enclose complete n=1
+
+new i=1,j=6,k=4,l=2
+
+i=1,j=6,k=4,l=3
+
+placed 2,1
+
+placed 4,5
+
+placed 3,4
+
+placed 3,2
+
+place complete
+after place i=1,j=6,k=4,l=3
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=5,l3=3,b3=4,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=7,b=10,min area=48
+Layout4:l=7,b=8,min area=48,placed in 6 and 8
+Layout5:l=6,b=11,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=1,j=6,k=4,l=3
+
+exits l
+
+i=1,j=6,k=5,l=2
+
+placed 2,1
+
+placed 4,5
+
+placed 4,3
+
+placed 2,3
+
+place complete
+after place i=1,j=6,k=5,l=2
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=5,l3=4,b3=3,l4=2,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=9,min area=48
+Layout3:l=6,b=9,min area=48
+Layout4:l=8,b=9,min area=48,placed in 6 and 8
+Layout5:l=6,b=11,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=1,j=6,k=5,l=2
+
+i=1,j=6,k=5,l=3
+
+placed 2,1
+
+placed 4,5
+
+placed 4,3
+
+placed 3,2
+
+place complete
+after place i=1,j=6,k=5,l=3
+
+enclose entered
+
+l1=2,b1=1,l2=4,b2=5,l3=4,b3=3,l4=3,b4=2
+Layout1:l=4,b=11,min area=44
+Layout2:l=7,b=9,min area=44
+Layout3:l=7,b=9,min area=44
+Layout4:l=8,b=8,min area=44,placed in 6 and 8
+Layout5:l=6,b=10,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=1,j=6,k=5,l=3
+
+exits l
+
+exits k
+
+i=1,j=7,k=2,l=4
+
+placed 2,1
+
+placed 5,4
+
+placed 2,3
+
+placed 3,4
+
+place complete
+after place i=1,j=7,k=2,l=4
+
+enclose entered
+
+l1=2,b1=1,l2=5,b2=4,l3=2,b3=3,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=7,b=9,min area=60,placed in 6 and 8
+Layout5:l=7,b=11,min area=60
+Layout6:l=7,b=8,min area=56
+
+enclose complete n=1
+
+new i=1,j=7,k=2,l=4
+
+i=1,j=7,k=2,l=5
+
+placed 2,1
+
+placed 5,4
+
+placed 2,3
+
+placed 4,3
+
+place complete
+after place i=1,j=7,k=2,l=5
+
+enclose entered
+
+l1=2,b1=1,l2=5,b2=4,l3=2,b3=3,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=9,b=8,min area=55
+Layout4:l=7,b=8,min area=55,placed in 6 and 8
+Layout5:l=7,b=10,min area=55
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=1,j=7,k=2,l=5
+
+exits l
+
+i=1,j=7,k=3,l=4
+
+placed 2,1
+
+placed 5,4
+
+placed 3,2
+
+placed 3,4
+
+place complete
+after place i=1,j=7,k=3,l=4
+
+enclose entered
+
+l1=2,b1=1,l2=5,b2=4,l3=3,b3=2,l4=3,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=8,b=7,min area=55
+Layout4:l=8,b=9,min area=55,placed in 6 and 8
+Layout5:l=7,b=10,min area=55
+Layout6:l=7,b=8,min area=55
+
+enclose complete n=1
+
+new i=1,j=7,k=3,l=4
+
+i=1,j=7,k=3,l=5
+
+placed 2,1
+
+placed 5,4
+
+placed 3,2
+
+placed 4,3
+
+place complete
+after place i=1,j=7,k=3,l=5
+
+enclose entered
+
+l1=2,b1=1,l2=5,b2=4,l3=3,b3=2,l4=4,b4=3
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=7,min area=50
+Layout3:l=9,b=7,min area=50
+Layout4:l=8,b=8,min area=50,placed in 6 and 8
+Layout5:l=7,b=9,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=1,j=7,k=3,l=5
+
+exits l
+
+i=1,j=7,k=4,l=2
+
+placed 2,1
+
+placed 5,4
+
+placed 3,4
+
+placed 2,3
+
+place complete
+after place i=1,j=7,k=4,l=2
+
+enclose entered
+
+l1=2,b1=1,l2=5,b2=4,l3=3,b3=4,l4=2,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=9,min area=60
+Layout3:l=7,b=9,min area=60
+Layout4:l=8,b=8,min area=60,placed in 6 and 8
+Layout5:l=7,b=11,min area=60
+Layout6:l=7,b=8,min area=56
+
+enclose complete n=1
+
+new i=1,j=7,k=4,l=2
+
+i=1,j=7,k=4,l=3
+
+placed 2,1
+
+placed 5,4
+
+placed 3,4
+
+placed 3,2
+
+place complete
+after place i=1,j=7,k=4,l=3
+
+enclose entered
+
+l1=2,b1=1,l2=5,b2=4,l3=3,b3=4,l4=3,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=9,min area=55
+Layout3:l=8,b=9,min area=55
+Layout4:l=8,b=7,min area=55,placed in 6 and 8
+Layout5:l=7,b=10,min area=55
+Layout6:l=7,b=8,min area=55
+
+enclose complete n=1
+
+new i=1,j=7,k=4,l=3
+
+exits l
+
+i=1,j=7,k=5,l=2
+
+placed 2,1
+
+placed 5,4
+
+placed 4,3
+
+placed 2,3
+
+place complete
+after place i=1,j=7,k=5,l=2
+
+enclose entered
+
+l1=2,b1=1,l2=5,b2=4,l3=4,b3=3,l4=2,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=8,min area=55
+Layout3:l=7,b=8,min area=55
+Layout4:l=9,b=8,min area=55,placed in 6 and 8
+Layout5:l=7,b=10,min area=55
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=1,j=7,k=5,l=2
+
+i=1,j=7,k=5,l=3
+
+placed 2,1
+
+placed 5,4
+
+placed 4,3
+
+placed 3,2
+
+place complete
+after place i=1,j=7,k=5,l=3
+
+enclose entered
+
+l1=2,b1=1,l2=5,b2=4,l3=4,b3=3,l4=3,b4=2
+Layout1:l=5,b=10,min area=50
+Layout2:l=8,b=8,min area=50
+Layout3:l=8,b=8,min area=50
+Layout4:l=9,b=7,min area=50,placed in 6 and 8
+Layout5:l=7,b=9,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=1,j=7,k=5,l=3
+
+exits l
+
+exits k
+
+exits j
+i=2,j=0,k=4,l=6
+
+placed 2,3
+
+placed 1,2
+
+placed 3,4
+
+placed 4,5
+
+place complete
+after place i=2,j=0,k=4,l=6
+
+enclose entered
+
+l1=2,b1=3,l2=1,b2=2,l3=3,b3=4,l4=4,b4=5
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=9,min area=56
+Layout3:l=6,b=9,min area=54
+Layout4:l=4,b=12,min area=48,placed in 6 and 8
+Layout5:l=4,b=12,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=2
+
+new i=2,j=0,k=4,l=6
+
+i=2,j=0,k=4,l=7
+
+placed 2,3
+
+placed 1,2
+
+placed 3,4
+
+placed 5,4
+
+place complete
+after place i=2,j=0,k=4,l=7
+
+enclose entered
+
+l1=2,b1=3,l2=1,b2=2,l3=3,b3=4,l4=5,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=7,b=9,min area=63
+Layout4:l=5,b=11,min area=55,placed in 4 and 12
+Layout5:l=5,b=11,min area=55
+Layout6:l=8,b=7,min area=55
+
+enclose complete n=2
+
+new i=2,j=0,k=4,l=7
+
+exits l
+
+i=2,j=0,k=5,l=6
+
+placed 2,3
+
+placed 1,2
+
+placed 4,3
+
+placed 4,5
+
+place complete
+after place i=2,j=0,k=5,l=6
+
+enclose entered
+
+l1=2,b1=3,l2=1,b2=2,l3=4,b3=3,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=8,min area=52
+Layout3:l=6,b=8,min area=48
+Layout4:l=5,b=11,min area=48,placed in 5 and 11
+Layout5:l=4,b=11,min area=44
+Layout6:l=8,b=8,min area=44
+
+enclose complete n=1
+
+new i=2,j=0,k=5,l=6
+
+i=2,j=0,k=5,l=7
+
+placed 2,3
+
+placed 1,2
+
+placed 4,3
+
+placed 5,4
+
+place complete
+after place i=2,j=0,k=5,l=7
+
+enclose entered
+
+l1=2,b1=3,l2=1,b2=2,l3=4,b3=3,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=8,min area=60
+Layout3:l=7,b=8,min area=56
+Layout4:l=5,b=10,min area=50,placed in 5 and 11
+Layout5:l=5,b=10,min area=50
+Layout6:l=9,b=7,min area=50
+
+enclose complete n=2
+
+new i=2,j=0,k=5,l=7
+
+exits l
+
+i=2,j=0,k=6,l=4
+
+placed 2,3
+
+placed 1,2
+
+placed 4,5
+
+placed 3,4
+
+place complete
+after place i=2,j=0,k=6,l=4
+
+enclose entered
+
+l1=2,b1=3,l2=1,b2=2,l3=4,b3=5,l4=3,b4=4
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=10,min area=56
+Layout3:l=5,b=10,min area=50
+Layout4:l=5,b=12,min area=50,placed in 5 and 10
+Layout5:l=4,b=12,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=2,j=0,k=6,l=4
+
+i=2,j=0,k=6,l=5
+
+placed 2,3
+
+placed 1,2
+
+placed 4,5
+
+placed 4,3
+
+place complete
+after place i=2,j=0,k=6,l=5
+
+enclose entered
+
+l1=2,b1=3,l2=1,b2=2,l3=4,b3=5,l4=4,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=5,b=11,min area=52,placed in 5 and 10
+Layout5:l=4,b=11,min area=44
+Layout6:l=8,b=8,min area=44
+
+enclose complete n=1
+
+new i=2,j=0,k=6,l=5
+
+exits l
+
+i=2,j=0,k=7,l=4
+
+placed 2,3
+
+placed 1,2
+
+placed 5,4
+
+placed 3,4
+
+place complete
+after place i=2,j=0,k=7,l=4
+
+enclose entered
+
+l1=2,b1=3,l2=1,b2=2,l3=5,b3=4,l4=3,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=5,b=9,min area=45
+Layout4:l=6,b=11,min area=45,placed in 5 and 10
+Layout5:l=5,b=11,min area=45
+Layout6:l=8,b=7,min area=45
+
+enclose complete n=1
+
+new i=2,j=0,k=7,l=4
+
+i=2,j=0,k=7,l=5
+
+placed 2,3
+
+placed 1,2
+
+placed 5,4
+
+placed 4,3
+
+place complete
+after place i=2,j=0,k=7,l=5
+
+enclose entered
+
+l1=2,b1=3,l2=1,b2=2,l3=5,b3=4,l4=4,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=9,min area=60
+Layout3:l=6,b=9,min area=54
+Layout4:l=6,b=10,min area=54,placed in 5 and 10
+Layout5:l=5,b=10,min area=50
+Layout6:l=9,b=7,min area=50
+
+enclose complete n=1
+
+new i=2,j=0,k=7,l=5
+
+exits l
+
+exits k
+
+i=2,j=1,k=4,l=6
+
+placed 2,3
+
+placed 2,1
+
+placed 3,4
+
+placed 4,5
+
+place complete
+after place i=2,j=1,k=4,l=6
+
+enclose entered
+
+l1=2,b1=3,l2=2,b2=1,l3=3,b3=4,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=6,b=9,min area=52
+Layout4:l=5,b=12,min area=52,placed in 5 and 10
+Layout5:l=4,b=12,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=2,j=1,k=4,l=6
+
+i=2,j=1,k=4,l=7
+
+placed 2,3
+
+placed 2,1
+
+placed 3,4
+
+placed 5,4
+
+place complete
+after place i=2,j=1,k=4,l=7
+
+enclose entered
+
+l1=2,b1=3,l2=2,b2=1,l3=3,b3=4,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=7,b=8,min area=56
+Layout4:l=5,b=11,min area=55,placed in 5 and 10
+Layout5:l=5,b=11,min area=55
+Layout6:l=8,b=7,min area=55
+
+enclose complete n=2
+
+new i=2,j=1,k=4,l=7
+
+exits l
+
+i=2,j=1,k=5,l=6
+
+placed 2,3
+
+placed 2,1
+
+placed 4,3
+
+placed 4,5
+
+place complete
+after place i=2,j=1,k=5,l=6
+
+enclose entered
+
+l1=2,b1=3,l2=2,b2=1,l3=4,b3=3,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=6,b=8,min area=48
+Layout4:l=6,b=11,min area=48,placed in 0 and 0
+Layout5:l=4,b=11,min area=44
+Layout6:l=8,b=8,min area=44
+
+enclose complete n=1
+
+new i=2,j=1,k=5,l=6
+
+i=2,j=1,k=5,l=7
+
+placed 2,3
+
+placed 2,1
+
+placed 4,3
+
+placed 5,4
+
+place complete
+after place i=2,j=1,k=5,l=7
+
+enclose entered
+
+l1=2,b1=3,l2=2,b2=1,l3=4,b3=3,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=7,b=7,min area=49
+Layout4:l=6,b=10,min area=49,placed in 6 and 8
+Layout5:l=5,b=10,min area=49
+Layout6:l=9,b=7,min area=49
+
+enclose complete n=1
+
+new i=2,j=1,k=5,l=7
+
+exits l
+
+i=2,j=1,k=6,l=4
+
+placed 2,3
+
+placed 2,1
+
+placed 4,5
+
+placed 3,4
+
+place complete
+after place i=2,j=1,k=6,l=4
+
+enclose entered
+
+l1=2,b1=3,l2=2,b2=1,l3=4,b3=5,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=5,b=9,min area=45
+Layout4:l=6,b=12,min area=45,placed in 6 and 8
+Layout5:l=4,b=12,min area=45
+Layout6:l=7,b=8,min area=45
+
+enclose complete n=1
+
+new i=2,j=1,k=6,l=4
+
+i=2,j=1,k=6,l=5
+
+placed 2,3
+
+placed 2,1
+
+placed 4,5
+
+placed 4,3
+
+place complete
+after place i=2,j=1,k=6,l=5
+
+enclose entered
+
+l1=2,b1=3,l2=2,b2=1,l3=4,b3=5,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=6,b=9,min area=48
+Layout4:l=6,b=11,min area=48,placed in 6 and 8
+Layout5:l=4,b=11,min area=44
+Layout6:l=8,b=8,min area=44
+
+enclose complete n=1
+
+new i=2,j=1,k=6,l=5
+
+exits l
+
+i=2,j=1,k=7,l=4
+
+placed 2,3
+
+placed 2,1
+
+placed 5,4
+
+placed 3,4
+
+place complete
+after place i=2,j=1,k=7,l=4
+
+enclose entered
+
+l1=2,b1=3,l2=2,b2=1,l3=5,b3=4,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=5,b=8,min area=40
+Layout4:l=7,b=11,min area=40,placed in 6 and 8
+Layout5:l=5,b=11,min area=40
+Layout6:l=8,b=7,min area=40
+
+enclose complete n=1
+
+new i=2,j=1,k=7,l=4
+
+i=2,j=1,k=7,l=5
+
+placed 2,3
+
+placed 2,1
+
+placed 5,4
+
+placed 4,3
+
+place complete
+after place i=2,j=1,k=7,l=5
+
+enclose entered
+
+l1=2,b1=3,l2=2,b2=1,l3=5,b3=4,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=6,b=8,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 8
+Layout5:l=5,b=10,min area=48
+Layout6:l=9,b=7,min area=48
+
+enclose complete n=1
+
+new i=2,j=1,k=7,l=5
+
+exits l
+
+exits k
+
+i=2,j=4,k=0,l=6
+
+placed 2,3
+
+placed 3,4
+
+placed 1,2
+
+placed 4,5
+
+place complete
+after place i=2,j=4,k=0,l=6
+
+enclose entered
+
+l1=2,b1=3,l2=3,b2=4,l3=1,b3=2,l4=4,b4=5
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=9,min area=56
+Layout3:l=7,b=9,min area=56
+Layout4:l=4,b=12,min area=48,placed in 6 and 8
+Layout5:l=5,b=11,min area=48
+Layout6:l=5,b=9,min area=45
+
+enclose complete n=1
+
+new i=2,j=4,k=0,l=6
+
+i=2,j=4,k=0,l=7
+
+placed 2,3
+
+placed 3,4
+
+placed 1,2
+
+placed 5,4
+
+place complete
+after place i=2,j=4,k=0,l=7
+
+enclose entered
+
+l1=2,b1=3,l2=3,b2=4,l3=1,b3=2,l4=5,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=8,b=9,min area=65
+Layout4:l=5,b=11,min area=55,placed in 6 and 8
+Layout5:l=5,b=10,min area=50
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=2,j=4,k=0,l=7
+
+exits l
+
+i=2,j=4,k=1,l=6
+
+placed 2,3
+
+placed 3,4
+
+placed 2,1
+
+placed 4,5
+
+place complete
+after place i=2,j=4,k=1,l=6
+
+enclose entered
+
+l1=2,b1=3,l2=3,b2=4,l3=2,b3=1,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=7,b=8,min area=52
+Layout4:l=5,b=12,min area=52,placed in 6 and 8
+Layout5:l=5,b=10,min area=50
+Layout6:l=6,b=9,min area=50
+
+enclose complete n=1
+
+new i=2,j=4,k=1,l=6
+
+i=2,j=4,k=1,l=7
+
+placed 2,3
+
+placed 3,4
+
+placed 2,1
+
+placed 5,4
+
+place complete
+after place i=2,j=4,k=1,l=7
+
+enclose entered
+
+l1=2,b1=3,l2=3,b2=4,l3=2,b3=1,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=11,min area=55,placed in 6 and 8
+Layout5:l=5,b=9,min area=45
+Layout6:l=7,b=8,min area=45
+
+enclose complete n=1
+
+new i=2,j=4,k=1,l=7
+
+exits l
+
+i=2,j=4,k=6,l=0
+
+placed 2,3
+
+placed 3,4
+
+placed 4,5
+
+placed 1,2
+
+place complete
+after place i=2,j=4,k=6,l=0
+
+enclose entered
+
+l1=2,b1=3,l2=3,b2=4,l3=4,b3=5,l4=1,b4=2
+Layout1:l=4,b=14,min area=56
+Layout2:l=5,b=12,min area=56
+Layout3:l=4,b=12,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 8
+Layout5:l=5,b=11,min area=48
+Layout6:l=5,b=9,min area=45
+
+enclose complete n=1
+
+new i=2,j=4,k=6,l=0
+
+i=2,j=4,k=6,l=1
+
+placed 2,3
+
+placed 3,4
+
+placed 4,5
+
+placed 2,1
+
+place complete
+after place i=2,j=4,k=6,l=1
+
+enclose entered
+
+l1=2,b1=3,l2=3,b2=4,l3=4,b3=5,l4=2,b4=1
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=12,min area=52
+Layout3:l=5,b=12,min area=52
+Layout4:l=7,b=9,min area=52,placed in 6 and 8
+Layout5:l=5,b=10,min area=50
+Layout6:l=6,b=9,min area=50
+
+enclose complete n=1
+
+new i=2,j=4,k=6,l=1
+
+exits l
+
+i=2,j=4,k=7,l=0
+
+placed 2,3
+
+placed 3,4
+
+placed 5,4
+
+placed 1,2
+
+place complete
+after place i=2,j=4,k=7,l=0
+
+enclose entered
+
+l1=2,b1=3,l2=3,b2=4,l3=5,b3=4,l4=1,b4=2
+Layout1:l=5,b=13,min area=65
+Layout2:l=6,b=11,min area=65
+Layout3:l=5,b=11,min area=55
+Layout4:l=8,b=9,min area=55,placed in 6 and 8
+Layout5:l=5,b=10,min area=50
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=2,j=4,k=7,l=0
+
+i=2,j=4,k=7,l=1
+
+placed 2,3
+
+placed 3,4
+
+placed 5,4
+
+placed 2,1
+
+place complete
+after place i=2,j=4,k=7,l=1
+
+enclose entered
+
+l1=2,b1=3,l2=3,b2=4,l3=5,b3=4,l4=2,b4=1
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=11,min area=60
+Layout3:l=5,b=11,min area=55
+Layout4:l=8,b=8,min area=55,placed in 6 and 8
+Layout5:l=5,b=9,min area=45
+Layout6:l=7,b=8,min area=45
+
+enclose complete n=1
+
+new i=2,j=4,k=7,l=1
+
+exits l
+
+exits k
+
+i=2,j=5,k=0,l=6
+
+placed 2,3
+
+placed 4,3
+
+placed 1,2
+
+placed 4,5
+
+place complete
+after place i=2,j=5,k=0,l=6
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=3,l3=1,b3=2,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=8,min area=52
+Layout3:l=8,b=8,min area=52
+Layout4:l=5,b=11,min area=52,placed in 6 and 8
+Layout5:l=6,b=10,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=2,j=5,k=0,l=6
+
+i=2,j=5,k=0,l=7
+
+placed 2,3
+
+placed 4,3
+
+placed 1,2
+
+placed 5,4
+
+place complete
+after place i=2,j=5,k=0,l=7
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=3,l3=1,b3=2,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=8,min area=60
+Layout3:l=9,b=8,min area=60
+Layout4:l=5,b=10,min area=50,placed in 6 and 8
+Layout5:l=6,b=9,min area=50
+Layout6:l=6,b=7,min area=42
+
+enclose complete n=1
+
+new i=2,j=5,k=0,l=7
+
+exits l
+
+i=2,j=5,k=1,l=6
+
+placed 2,3
+
+placed 4,3
+
+placed 2,1
+
+placed 4,5
+
+place complete
+after place i=2,j=5,k=1,l=6
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=3,l3=2,b3=1,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=8,b=7,min area=48
+Layout4:l=6,b=11,min area=48,placed in 6 and 8
+Layout5:l=6,b=9,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=2,j=5,k=1,l=6
+
+i=2,j=5,k=1,l=7
+
+placed 2,3
+
+placed 4,3
+
+placed 2,1
+
+placed 5,4
+
+place complete
+after place i=2,j=5,k=1,l=7
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=3,l3=2,b3=1,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=9,b=7,min area=55
+Layout4:l=6,b=10,min area=55,placed in 6 and 8
+Layout5:l=6,b=8,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=2,j=5,k=1,l=7
+
+exits l
+
+i=2,j=5,k=6,l=0
+
+placed 2,3
+
+placed 4,3
+
+placed 4,5
+
+placed 1,2
+
+place complete
+after place i=2,j=5,k=6,l=0
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=3,l3=4,b3=5,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=5,b=11,min area=52
+Layout4:l=8,b=10,min area=52,placed in 6 and 8
+Layout5:l=6,b=10,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=2,j=5,k=6,l=0
+
+i=2,j=5,k=6,l=1
+
+placed 2,3
+
+placed 4,3
+
+placed 4,5
+
+placed 2,1
+
+place complete
+after place i=2,j=5,k=6,l=1
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=3,l3=4,b3=5,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=6,b=11,min area=48
+Layout4:l=8,b=9,min area=48,placed in 6 and 8
+Layout5:l=6,b=9,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=2,j=5,k=6,l=1
+
+exits l
+
+i=2,j=5,k=7,l=0
+
+placed 2,3
+
+placed 4,3
+
+placed 5,4
+
+placed 1,2
+
+place complete
+after place i=2,j=5,k=7,l=0
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=3,l3=5,b3=4,l4=1,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=6,b=10,min area=60
+Layout3:l=5,b=10,min area=50
+Layout4:l=9,b=9,min area=50,placed in 6 and 10
+Layout5:l=6,b=9,min area=50
+Layout6:l=6,b=7,min area=42
+
+enclose complete n=1
+
+new i=2,j=5,k=7,l=0
+
+i=2,j=5,k=7,l=1
+
+placed 2,3
+
+placed 4,3
+
+placed 5,4
+
+placed 2,1
+
+place complete
+after place i=2,j=5,k=7,l=1
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=3,l3=5,b3=4,l4=2,b4=1
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=10,min area=55
+Layout3:l=6,b=10,min area=55
+Layout4:l=9,b=8,min area=55,placed in 6 and 10
+Layout5:l=6,b=8,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=2,j=5,k=7,l=1
+
+exits l
+
+exits k
+
+i=2,j=6,k=0,l=4
+
+placed 2,3
+
+placed 4,5
+
+placed 1,2
+
+placed 3,4
+
+place complete
+after place i=2,j=6,k=0,l=4
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=5,l3=1,b3=2,l4=3,b4=4
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=10,min area=56
+Layout3:l=7,b=10,min area=56
+Layout4:l=5,b=12,min area=56,placed in 6 and 10
+Layout5:l=6,b=11,min area=56
+Layout6:l=6,b=9,min area=54
+
+enclose complete n=1
+
+new i=2,j=6,k=0,l=4
+
+i=2,j=6,k=0,l=5
+
+placed 2,3
+
+placed 4,5
+
+placed 1,2
+
+placed 4,3
+
+place complete
+after place i=2,j=6,k=0,l=5
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=5,l3=1,b3=2,l4=4,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=10,min area=52
+Layout3:l=8,b=10,min area=52
+Layout4:l=5,b=11,min area=52,placed in 6 and 10
+Layout5:l=6,b=10,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=2,j=6,k=0,l=5
+
+exits l
+
+i=2,j=6,k=1,l=4
+
+placed 2,3
+
+placed 4,5
+
+placed 2,1
+
+placed 3,4
+
+place complete
+after place i=2,j=6,k=1,l=4
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=5,l3=2,b3=1,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=7,b=9,min area=52
+Layout4:l=6,b=12,min area=52,placed in 6 and 10
+Layout5:l=6,b=10,min area=52
+Layout6:l=6,b=9,min area=52
+
+enclose complete n=1
+
+new i=2,j=6,k=1,l=4
+
+i=2,j=6,k=1,l=5
+
+placed 2,3
+
+placed 4,5
+
+placed 2,1
+
+placed 4,3
+
+place complete
+after place i=2,j=6,k=1,l=5
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=5,l3=2,b3=1,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=8,b=9,min area=48
+Layout4:l=6,b=11,min area=48,placed in 6 and 10
+Layout5:l=6,b=9,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=2,j=6,k=1,l=5
+
+exits l
+
+i=2,j=6,k=4,l=0
+
+placed 2,3
+
+placed 4,5
+
+placed 3,4
+
+placed 1,2
+
+place complete
+after place i=2,j=6,k=4,l=0
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=5,l3=3,b3=4,l4=1,b4=2
+Layout1:l=4,b=14,min area=56
+Layout2:l=5,b=12,min area=56
+Layout3:l=5,b=12,min area=56
+Layout4:l=7,b=10,min area=56,placed in 6 and 8
+Layout5:l=6,b=11,min area=56
+Layout6:l=6,b=9,min area=54
+
+enclose complete n=1
+
+new i=2,j=6,k=4,l=0
+
+i=2,j=6,k=4,l=1
+
+placed 2,3
+
+placed 4,5
+
+placed 3,4
+
+placed 2,1
+
+place complete
+after place i=2,j=6,k=4,l=1
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=5,l3=3,b3=4,l4=2,b4=1
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=12,min area=52
+Layout3:l=6,b=12,min area=52
+Layout4:l=7,b=9,min area=52,placed in 6 and 8
+Layout5:l=6,b=10,min area=52
+Layout6:l=6,b=9,min area=52
+
+enclose complete n=1
+
+new i=2,j=6,k=4,l=1
+
+exits l
+
+i=2,j=6,k=5,l=0
+
+placed 2,3
+
+placed 4,5
+
+placed 4,3
+
+placed 1,2
+
+place complete
+after place i=2,j=6,k=5,l=0
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=5,l3=4,b3=3,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=5,b=11,min area=52
+Layout4:l=8,b=10,min area=52,placed in 6 and 8
+Layout5:l=6,b=10,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=2,j=6,k=5,l=0
+
+i=2,j=6,k=5,l=1
+
+placed 2,3
+
+placed 4,5
+
+placed 4,3
+
+placed 2,1
+
+place complete
+after place i=2,j=6,k=5,l=1
+
+enclose entered
+
+l1=2,b1=3,l2=4,b2=5,l3=4,b3=3,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=6,b=11,min area=48
+Layout4:l=8,b=9,min area=48,placed in 6 and 8
+Layout5:l=6,b=9,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=2,j=6,k=5,l=1
+
+exits l
+
+exits k
+
+i=2,j=7,k=0,l=4
+
+placed 2,3
+
+placed 5,4
+
+placed 1,2
+
+placed 3,4
+
+place complete
+after place i=2,j=7,k=0,l=4
+
+enclose entered
+
+l1=2,b1=3,l2=5,b2=4,l3=1,b3=2,l4=3,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=8,b=9,min area=65
+Layout4:l=6,b=11,min area=65,placed in 6 and 8
+Layout5:l=7,b=10,min area=65
+Layout6:l=7,b=8,min area=56
+
+enclose complete n=1
+
+new i=2,j=7,k=0,l=4
+
+i=2,j=7,k=0,l=5
+
+placed 2,3
+
+placed 5,4
+
+placed 1,2
+
+placed 4,3
+
+place complete
+after place i=2,j=7,k=0,l=5
+
+enclose entered
+
+l1=2,b1=3,l2=5,b2=4,l3=1,b3=2,l4=4,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=9,min area=60
+Layout3:l=9,b=9,min area=60
+Layout4:l=6,b=10,min area=60,placed in 0 and 0
+Layout5:l=7,b=9,min area=60
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=2,j=7,k=0,l=5
+
+exits l
+
+i=2,j=7,k=1,l=4
+
+placed 2,3
+
+placed 5,4
+
+placed 2,1
+
+placed 3,4
+
+place complete
+after place i=2,j=7,k=1,l=4
+
+enclose entered
+
+l1=2,b1=3,l2=5,b2=4,l3=2,b3=1,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=7,b=11,min area=60,placed in 6 and 10
+Layout5:l=7,b=9,min area=60
+Layout6:l=7,b=8,min area=56
+
+enclose complete n=1
+
+new i=2,j=7,k=1,l=4
+
+i=2,j=7,k=1,l=5
+
+placed 2,3
+
+placed 5,4
+
+placed 2,1
+
+placed 4,3
+
+place complete
+after place i=2,j=7,k=1,l=5
+
+enclose entered
+
+l1=2,b1=3,l2=5,b2=4,l3=2,b3=1,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=9,b=8,min area=55
+Layout4:l=7,b=10,min area=55,placed in 6 and 10
+Layout5:l=7,b=8,min area=55
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=2,j=7,k=1,l=5
+
+exits l
+
+i=2,j=7,k=4,l=0
+
+placed 2,3
+
+placed 5,4
+
+placed 3,4
+
+placed 1,2
+
+place complete
+after place i=2,j=7,k=4,l=0
+
+enclose entered
+
+l1=2,b1=3,l2=5,b2=4,l3=3,b3=4,l4=1,b4=2
+Layout1:l=5,b=13,min area=65
+Layout2:l=6,b=11,min area=65
+Layout3:l=6,b=11,min area=65
+Layout4:l=8,b=9,min area=65,placed in 6 and 10
+Layout5:l=7,b=10,min area=65
+Layout6:l=7,b=8,min area=56
+
+enclose complete n=1
+
+new i=2,j=7,k=4,l=0
+
+i=2,j=7,k=4,l=1
+
+placed 2,3
+
+placed 5,4
+
+placed 3,4
+
+placed 2,1
+
+place complete
+after place i=2,j=7,k=4,l=1
+
+enclose entered
+
+l1=2,b1=3,l2=5,b2=4,l3=3,b3=4,l4=2,b4=1
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=11,min area=60
+Layout3:l=7,b=11,min area=60
+Layout4:l=8,b=8,min area=60,placed in 6 and 10
+Layout5:l=7,b=9,min area=60
+Layout6:l=7,b=8,min area=56
+
+enclose complete n=1
+
+new i=2,j=7,k=4,l=1
+
+exits l
+
+i=2,j=7,k=5,l=0
+
+placed 2,3
+
+placed 5,4
+
+placed 4,3
+
+placed 1,2
+
+place complete
+after place i=2,j=7,k=5,l=0
+
+enclose entered
+
+l1=2,b1=3,l2=5,b2=4,l3=4,b3=3,l4=1,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=6,b=10,min area=60
+Layout3:l=6,b=10,min area=60
+Layout4:l=9,b=9,min area=60,placed in 7 and 2
+Layout5:l=7,b=9,min area=60
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=2,j=7,k=5,l=0
+
+i=2,j=7,k=5,l=1
+
+placed 2,3
+
+placed 5,4
+
+placed 4,3
+
+placed 2,1
+
+place complete
+after place i=2,j=7,k=5,l=1
+
+enclose entered
+
+l1=2,b1=3,l2=5,b2=4,l3=4,b3=3,l4=2,b4=1
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=10,min area=55
+Layout3:l=7,b=10,min area=55
+Layout4:l=9,b=8,min area=55,placed in 6 and 10
+Layout5:l=7,b=8,min area=55
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=2,j=7,k=5,l=1
+
+exits l
+
+exits k
+
+exits j
+i=3,j=0,k=4,l=6
+
+placed 3,2
+
+placed 1,2
+
+placed 3,4
+
+placed 4,5
+
+place complete
+after place i=3,j=0,k=4,l=6
+
+enclose entered
+
+l1=3,b1=2,l2=1,b2=2,l3=3,b3=4,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=7,b=9,min area=52
+Layout4:l=4,b=11,min area=44,placed in 6 and 10
+Layout5:l=4,b=11,min area=44
+Layout6:l=7,b=7,min area=44
+
+enclose complete n=2
+
+new i=3,j=0,k=4,l=6
+
+i=3,j=0,k=4,l=7
+
+placed 3,2
+
+placed 1,2
+
+placed 3,4
+
+placed 5,4
+
+place complete
+after place i=3,j=0,k=4,l=7
+
+enclose entered
+
+l1=3,b1=2,l2=1,b2=2,l3=3,b3=4,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=10,min area=50,placed in 4 and 11
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=3,j=0,k=4,l=7
+
+exits l
+
+i=3,j=0,k=5,l=6
+
+placed 3,2
+
+placed 1,2
+
+placed 4,3
+
+placed 4,5
+
+place complete
+after place i=3,j=0,k=5,l=6
+
+enclose entered
+
+l1=3,b1=2,l2=1,b2=2,l3=4,b3=3,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=7,b=8,min area=48
+Layout4:l=5,b=10,min area=48,placed in 5 and 10
+Layout5:l=4,b=10,min area=40
+Layout6:l=8,b=7,min area=40
+
+enclose complete n=1
+
+new i=3,j=0,k=5,l=6
+
+i=3,j=0,k=5,l=7
+
+placed 3,2
+
+placed 1,2
+
+placed 4,3
+
+placed 5,4
+
+place complete
+after place i=3,j=0,k=5,l=7
+
+enclose entered
+
+l1=3,b1=2,l2=1,b2=2,l3=4,b3=3,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=8,b=7,min area=55
+Layout4:l=5,b=9,min area=45,placed in 5 and 10
+Layout5:l=5,b=9,min area=45
+Layout6:l=9,b=6,min area=45
+
+enclose complete n=2
+
+new i=3,j=0,k=5,l=7
+
+exits l
+
+i=3,j=0,k=6,l=4
+
+placed 3,2
+
+placed 1,2
+
+placed 4,5
+
+placed 3,4
+
+place complete
+after place i=3,j=0,k=6,l=4
+
+enclose entered
+
+l1=3,b1=2,l2=1,b2=2,l3=4,b3=5,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=6,b=9,min area=52
+Layout4:l=5,b=11,min area=52,placed in 5 and 9
+Layout5:l=4,b=11,min area=44
+Layout6:l=7,b=7,min area=44
+
+enclose complete n=1
+
+new i=3,j=0,k=6,l=4
+
+i=3,j=0,k=6,l=5
+
+placed 3,2
+
+placed 1,2
+
+placed 4,5
+
+placed 4,3
+
+place complete
+after place i=3,j=0,k=6,l=5
+
+enclose entered
+
+l1=3,b1=2,l2=1,b2=2,l3=4,b3=5,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=7,b=9,min area=48
+Layout4:l=5,b=10,min area=48,placed in 5 and 9
+Layout5:l=4,b=10,min area=40
+Layout6:l=8,b=7,min area=40
+
+enclose complete n=1
+
+new i=3,j=0,k=6,l=5
+
+exits l
+
+i=3,j=0,k=7,l=4
+
+placed 3,2
+
+placed 1,2
+
+placed 5,4
+
+placed 3,4
+
+place complete
+after place i=3,j=0,k=7,l=4
+
+enclose entered
+
+l1=3,b1=2,l2=1,b2=2,l3=5,b3=4,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=6,b=8,min area=48
+Layout4:l=6,b=10,min area=48,placed in 5 and 9
+Layout5:l=5,b=10,min area=48
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=2
+
+new i=3,j=0,k=7,l=4
+
+i=3,j=0,k=7,l=5
+
+placed 3,2
+
+placed 1,2
+
+placed 5,4
+
+placed 4,3
+
+place complete
+after place i=3,j=0,k=7,l=5
+
+enclose entered
+
+l1=3,b1=2,l2=1,b2=2,l3=5,b3=4,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=7,b=8,min area=55
+Layout4:l=6,b=9,min area=54,placed in 8 and 6
+Layout5:l=5,b=9,min area=45
+Layout6:l=9,b=6,min area=45
+
+enclose complete n=1
+
+new i=3,j=0,k=7,l=5
+
+exits l
+
+exits k
+
+i=3,j=1,k=4,l=6
+
+placed 3,2
+
+placed 2,1
+
+placed 3,4
+
+placed 4,5
+
+place complete
+after place i=3,j=1,k=4,l=6
+
+enclose entered
+
+l1=3,b1=2,l2=2,b2=1,l3=3,b3=4,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=7,min area=48
+Layout3:l=7,b=9,min area=48
+Layout4:l=5,b=11,min area=48,placed in 8 and 6
+Layout5:l=5,b=11,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=3,j=1,k=4,l=6
+
+i=3,j=1,k=4,l=7
+
+placed 3,2
+
+placed 2,1
+
+placed 3,4
+
+placed 5,4
+
+place complete
+after place i=3,j=1,k=4,l=7
+
+enclose entered
+
+l1=3,b1=2,l2=2,b2=1,l3=3,b3=4,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=8,b=8,min area=55
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=3,j=1,k=4,l=7
+
+exits l
+
+i=3,j=1,k=5,l=6
+
+placed 3,2
+
+placed 2,1
+
+placed 4,3
+
+placed 4,5
+
+place complete
+after place i=3,j=1,k=5,l=6
+
+enclose entered
+
+l1=3,b1=2,l2=2,b2=1,l3=4,b3=3,l4=4,b4=5
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=6,min area=44
+Layout3:l=7,b=8,min area=44
+Layout4:l=6,b=10,min area=44,placed in 5 and 10
+Layout5:l=5,b=10,min area=44
+Layout6:l=8,b=7,min area=44
+
+enclose complete n=1
+
+new i=3,j=1,k=5,l=6
+
+i=3,j=1,k=5,l=7
+
+placed 3,2
+
+placed 2,1
+
+placed 4,3
+
+placed 5,4
+
+place complete
+after place i=3,j=1,k=5,l=7
+
+enclose entered
+
+l1=3,b1=2,l2=2,b2=1,l3=4,b3=3,l4=5,b4=4
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=6,min area=50
+Layout3:l=8,b=7,min area=50
+Layout4:l=6,b=9,min area=50,placed in 5 and 10
+Layout5:l=5,b=9,min area=45
+Layout6:l=9,b=6,min area=45
+
+enclose complete n=1
+
+new i=3,j=1,k=5,l=7
+
+exits l
+
+i=3,j=1,k=6,l=4
+
+placed 3,2
+
+placed 2,1
+
+placed 4,5
+
+placed 3,4
+
+place complete
+after place i=3,j=1,k=6,l=4
+
+enclose entered
+
+l1=3,b1=2,l2=2,b2=1,l3=4,b3=5,l4=3,b4=4
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=8,min area=48
+Layout3:l=6,b=9,min area=48
+Layout4:l=6,b=11,min area=48,placed in 5 and 10
+Layout5:l=5,b=11,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=3,j=1,k=6,l=4
+
+i=3,j=1,k=6,l=5
+
+placed 3,2
+
+placed 2,1
+
+placed 4,5
+
+placed 4,3
+
+place complete
+after place i=3,j=1,k=6,l=5
+
+enclose entered
+
+l1=3,b1=2,l2=2,b2=1,l3=4,b3=5,l4=4,b4=3
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=8,min area=44
+Layout3:l=7,b=8,min area=44
+Layout4:l=6,b=10,min area=44,placed in 5 and 10
+Layout5:l=5,b=10,min area=44
+Layout6:l=8,b=7,min area=44
+
+enclose complete n=1
+
+new i=3,j=1,k=6,l=5
+
+exits l
+
+i=3,j=1,k=7,l=4
+
+placed 3,2
+
+placed 2,1
+
+placed 5,4
+
+placed 3,4
+
+place complete
+after place i=3,j=1,k=7,l=4
+
+enclose entered
+
+l1=3,b1=2,l2=2,b2=1,l3=5,b3=4,l4=3,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=6,b=8,min area=48
+Layout4:l=7,b=10,min area=48,placed in 5 and 10
+Layout5:l=5,b=10,min area=48
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=2
+
+new i=3,j=1,k=7,l=4
+
+i=3,j=1,k=7,l=5
+
+placed 3,2
+
+placed 2,1
+
+placed 5,4
+
+placed 4,3
+
+place complete
+after place i=3,j=1,k=7,l=5
+
+enclose entered
+
+l1=3,b1=2,l2=2,b2=1,l3=5,b3=4,l4=4,b4=3
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=7,min area=50
+Layout3:l=7,b=7,min area=49
+Layout4:l=7,b=9,min area=49,placed in 8 and 6
+Layout5:l=5,b=9,min area=45
+Layout6:l=9,b=6,min area=45
+
+enclose complete n=1
+
+new i=3,j=1,k=7,l=5
+
+exits l
+
+exits k
+
+i=3,j=4,k=0,l=6
+
+placed 3,2
+
+placed 3,4
+
+placed 1,2
+
+placed 4,5
+
+place complete
+after place i=3,j=4,k=0,l=6
+
+enclose entered
+
+l1=3,b1=2,l2=3,b2=4,l3=1,b3=2,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=7,b=8,min area=52
+Layout4:l=4,b=11,min area=44,placed in 8 and 6
+Layout5:l=6,b=11,min area=44
+Layout6:l=6,b=9,min area=44
+
+enclose complete n=1
+
+new i=3,j=4,k=0,l=6
+
+i=3,j=4,k=0,l=7
+
+placed 3,2
+
+placed 3,4
+
+placed 1,2
+
+placed 5,4
+
+place complete
+after place i=3,j=4,k=0,l=7
+
+enclose entered
+
+l1=3,b1=2,l2=3,b2=4,l3=1,b3=2,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=6,b=10,min area=50
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=3,j=4,k=0,l=7
+
+exits l
+
+i=3,j=4,k=1,l=6
+
+placed 3,2
+
+placed 3,4
+
+placed 2,1
+
+placed 4,5
+
+place complete
+after place i=3,j=4,k=1,l=6
+
+enclose entered
+
+l1=3,b1=2,l2=3,b2=4,l3=2,b3=1,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=7,min area=48
+Layout3:l=7,b=7,min area=48
+Layout4:l=5,b=11,min area=48,placed in 8 and 6
+Layout5:l=6,b=10,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=3,j=4,k=1,l=6
+
+i=3,j=4,k=1,l=7
+
+placed 3,2
+
+placed 3,4
+
+placed 2,1
+
+placed 5,4
+
+place complete
+after place i=3,j=4,k=1,l=7
+
+enclose entered
+
+l1=3,b1=2,l2=3,b2=4,l3=2,b3=1,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=8,b=7,min area=55
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=6,b=9,min area=50
+Layout6:l=7,b=8,min area=50
+
+enclose complete n=1
+
+new i=3,j=4,k=1,l=7
+
+exits l
+
+i=3,j=4,k=6,l=0
+
+placed 3,2
+
+placed 3,4
+
+placed 4,5
+
+placed 1,2
+
+place complete
+after place i=3,j=4,k=6,l=0
+
+enclose entered
+
+l1=3,b1=2,l2=3,b2=4,l3=4,b3=5,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=4,b=11,min area=44
+Layout4:l=7,b=9,min area=44,placed in 8 and 6
+Layout5:l=6,b=11,min area=44
+Layout6:l=6,b=9,min area=44
+
+enclose complete n=1
+
+new i=3,j=4,k=6,l=0
+
+i=3,j=4,k=6,l=1
+
+placed 3,2
+
+placed 3,4
+
+placed 4,5
+
+placed 2,1
+
+place complete
+after place i=3,j=4,k=6,l=1
+
+enclose entered
+
+l1=3,b1=2,l2=3,b2=4,l3=4,b3=5,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=5,b=11,min area=48
+Layout4:l=7,b=8,min area=48,placed in 8 and 6
+Layout5:l=6,b=10,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=3,j=4,k=6,l=1
+
+exits l
+
+i=3,j=4,k=7,l=0
+
+placed 3,2
+
+placed 3,4
+
+placed 5,4
+
+placed 1,2
+
+place complete
+after place i=3,j=4,k=7,l=0
+
+enclose entered
+
+l1=3,b1=2,l2=3,b2=4,l3=5,b3=4,l4=1,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=6,b=10,min area=60
+Layout3:l=5,b=10,min area=50
+Layout4:l=8,b=8,min area=50,placed in 6 and 10
+Layout5:l=6,b=10,min area=50
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=3,j=4,k=7,l=0
+
+i=3,j=4,k=7,l=1
+
+placed 3,2
+
+placed 3,4
+
+placed 5,4
+
+placed 2,1
+
+place complete
+after place i=3,j=4,k=7,l=1
+
+enclose entered
+
+l1=3,b1=2,l2=3,b2=4,l3=5,b3=4,l4=2,b4=1
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=10,min area=55
+Layout3:l=5,b=10,min area=50
+Layout4:l=8,b=7,min area=50,placed in 6 and 10
+Layout5:l=6,b=9,min area=50
+Layout6:l=7,b=8,min area=50
+
+enclose complete n=1
+
+new i=3,j=4,k=7,l=1
+
+exits l
+
+exits k
+
+i=3,j=5,k=0,l=6
+
+placed 3,2
+
+placed 4,3
+
+placed 1,2
+
+placed 4,5
+
+place complete
+after place i=3,j=5,k=0,l=6
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=3,l3=1,b3=2,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=8,b=7,min area=48
+Layout4:l=5,b=10,min area=48,placed in 6 and 10
+Layout5:l=7,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=3,j=5,k=0,l=6
+
+i=3,j=5,k=0,l=7
+
+placed 3,2
+
+placed 4,3
+
+placed 1,2
+
+placed 5,4
+
+place complete
+after place i=3,j=5,k=0,l=7
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=3,l3=1,b3=2,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=9,b=7,min area=55
+Layout4:l=5,b=9,min area=45,placed in 6 and 10
+Layout5:l=7,b=9,min area=45
+Layout6:l=7,b=7,min area=45
+
+enclose complete n=1
+
+new i=3,j=5,k=0,l=7
+
+exits l
+
+i=3,j=5,k=1,l=6
+
+placed 3,2
+
+placed 4,3
+
+placed 2,1
+
+placed 4,5
+
+place complete
+after place i=3,j=5,k=1,l=6
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=3,l3=2,b3=1,l4=4,b4=5
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=6,min area=44
+Layout3:l=8,b=6,min area=44
+Layout4:l=6,b=10,min area=44,placed in 6 and 10
+Layout5:l=7,b=9,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=3,j=5,k=1,l=6
+
+i=3,j=5,k=1,l=7
+
+placed 3,2
+
+placed 4,3
+
+placed 2,1
+
+placed 5,4
+
+place complete
+after place i=3,j=5,k=1,l=7
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=3,l3=2,b3=1,l4=5,b4=4
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=6,min area=50
+Layout3:l=9,b=6,min area=50
+Layout4:l=6,b=9,min area=50,placed in 6 and 10
+Layout5:l=7,b=8,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=3,j=5,k=1,l=7
+
+exits l
+
+i=3,j=5,k=6,l=0
+
+placed 3,2
+
+placed 4,3
+
+placed 4,5
+
+placed 1,2
+
+place complete
+after place i=3,j=5,k=6,l=0
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=3,l3=4,b3=5,l4=1,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=5,b=10,min area=48
+Layout3:l=5,b=10,min area=48
+Layout4:l=8,b=9,min area=48,placed in 6 and 10
+Layout5:l=7,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=3,j=5,k=6,l=0
+
+i=3,j=5,k=6,l=1
+
+placed 3,2
+
+placed 4,3
+
+placed 4,5
+
+placed 2,1
+
+place complete
+after place i=3,j=5,k=6,l=1
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=3,l3=4,b3=5,l4=2,b4=1
+Layout1:l=4,b=11,min area=44
+Layout2:l=6,b=10,min area=44
+Layout3:l=6,b=10,min area=44
+Layout4:l=8,b=8,min area=44,placed in 6 and 10
+Layout5:l=7,b=9,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=3,j=5,k=6,l=1
+
+exits l
+
+i=3,j=5,k=7,l=0
+
+placed 3,2
+
+placed 4,3
+
+placed 5,4
+
+placed 1,2
+
+place complete
+after place i=3,j=5,k=7,l=0
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=3,l3=5,b3=4,l4=1,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=6,b=9,min area=54
+Layout3:l=5,b=9,min area=45
+Layout4:l=9,b=8,min area=45,placed in 6 and 10
+Layout5:l=7,b=9,min area=45
+Layout6:l=7,b=7,min area=45
+
+enclose complete n=1
+
+new i=3,j=5,k=7,l=0
+
+i=3,j=5,k=7,l=1
+
+placed 3,2
+
+placed 4,3
+
+placed 5,4
+
+placed 2,1
+
+place complete
+after place i=3,j=5,k=7,l=1
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=3,l3=5,b3=4,l4=2,b4=1
+Layout1:l=5,b=10,min area=50
+Layout2:l=7,b=9,min area=50
+Layout3:l=6,b=9,min area=50
+Layout4:l=9,b=7,min area=50,placed in 6 and 10
+Layout5:l=7,b=8,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=3,j=5,k=7,l=1
+
+exits l
+
+exits k
+
+i=3,j=6,k=0,l=4
+
+placed 3,2
+
+placed 4,5
+
+placed 1,2
+
+placed 3,4
+
+place complete
+after place i=3,j=6,k=0,l=4
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=5,l3=1,b3=2,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=7,b=9,min area=52
+Layout4:l=5,b=11,min area=52,placed in 6 and 10
+Layout5:l=7,b=11,min area=52
+Layout6:l=7,b=9,min area=52
+
+enclose complete n=1
+
+new i=3,j=6,k=0,l=4
+
+i=3,j=6,k=0,l=5
+
+placed 3,2
+
+placed 4,5
+
+placed 1,2
+
+placed 4,3
+
+place complete
+after place i=3,j=6,k=0,l=5
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=5,l3=1,b3=2,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=8,b=9,min area=48
+Layout4:l=5,b=10,min area=48,placed in 6 and 10
+Layout5:l=7,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=3,j=6,k=0,l=5
+
+exits l
+
+i=3,j=6,k=1,l=4
+
+placed 3,2
+
+placed 4,5
+
+placed 2,1
+
+placed 3,4
+
+place complete
+after place i=3,j=6,k=1,l=4
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=5,l3=2,b3=1,l4=3,b4=4
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=8,min area=48
+Layout3:l=7,b=8,min area=48
+Layout4:l=6,b=11,min area=48,placed in 6 and 10
+Layout5:l=7,b=10,min area=48
+Layout6:l=7,b=9,min area=48
+
+enclose complete n=1
+
+new i=3,j=6,k=1,l=4
+
+i=3,j=6,k=1,l=5
+
+placed 3,2
+
+placed 4,5
+
+placed 2,1
+
+placed 4,3
+
+place complete
+after place i=3,j=6,k=1,l=5
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=5,l3=2,b3=1,l4=4,b4=3
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=8,min area=44
+Layout3:l=8,b=8,min area=44
+Layout4:l=6,b=10,min area=44,placed in 6 and 10
+Layout5:l=7,b=9,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=3,j=6,k=1,l=5
+
+exits l
+
+i=3,j=6,k=4,l=0
+
+placed 3,2
+
+placed 4,5
+
+placed 3,4
+
+placed 1,2
+
+place complete
+after place i=3,j=6,k=4,l=0
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=5,l3=3,b3=4,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=5,b=11,min area=52
+Layout4:l=7,b=9,min area=52,placed in 6 and 10
+Layout5:l=7,b=11,min area=52
+Layout6:l=7,b=9,min area=52
+
+enclose complete n=1
+
+new i=3,j=6,k=4,l=0
+
+i=3,j=6,k=4,l=1
+
+placed 3,2
+
+placed 4,5
+
+placed 3,4
+
+placed 2,1
+
+place complete
+after place i=3,j=6,k=4,l=1
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=5,l3=3,b3=4,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=6,b=11,min area=48
+Layout4:l=7,b=8,min area=48,placed in 6 and 10
+Layout5:l=7,b=10,min area=48
+Layout6:l=7,b=9,min area=48
+
+enclose complete n=1
+
+new i=3,j=6,k=4,l=1
+
+exits l
+
+i=3,j=6,k=5,l=0
+
+placed 3,2
+
+placed 4,5
+
+placed 4,3
+
+placed 1,2
+
+place complete
+after place i=3,j=6,k=5,l=0
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=5,l3=4,b3=3,l4=1,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=5,b=10,min area=48
+Layout3:l=5,b=10,min area=48
+Layout4:l=8,b=9,min area=48,placed in 6 and 10
+Layout5:l=7,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=3,j=6,k=5,l=0
+
+i=3,j=6,k=5,l=1
+
+placed 3,2
+
+placed 4,5
+
+placed 4,3
+
+placed 2,1
+
+place complete
+after place i=3,j=6,k=5,l=1
+
+enclose entered
+
+l1=3,b1=2,l2=4,b2=5,l3=4,b3=3,l4=2,b4=1
+Layout1:l=4,b=11,min area=44
+Layout2:l=6,b=10,min area=44
+Layout3:l=6,b=10,min area=44
+Layout4:l=8,b=8,min area=44,placed in 6 and 10
+Layout5:l=7,b=9,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=3,j=6,k=5,l=1
+
+exits l
+
+exits k
+
+i=3,j=7,k=0,l=4
+
+placed 3,2
+
+placed 5,4
+
+placed 1,2
+
+placed 3,4
+
+place complete
+after place i=3,j=7,k=0,l=4
+
+enclose entered
+
+l1=3,b1=2,l2=5,b2=4,l3=1,b3=2,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=6,b=10,min area=60,placed in 6 and 10
+Layout5:l=8,b=10,min area=60
+Layout6:l=8,b=8,min area=60
+
+enclose complete n=2
+
+new i=3,j=7,k=0,l=4
+
+i=3,j=7,k=0,l=5
+
+placed 3,2
+
+placed 5,4
+
+placed 1,2
+
+placed 4,3
+
+place complete
+after place i=3,j=7,k=0,l=5
+
+enclose entered
+
+l1=3,b1=2,l2=5,b2=4,l3=1,b3=2,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=9,b=8,min area=55
+Layout4:l=6,b=9,min area=54,placed in 6 and 10
+Layout5:l=8,b=9,min area=54
+Layout6:l=8,b=7,min area=54
+
+enclose complete n=1
+
+new i=3,j=7,k=0,l=5
+
+exits l
+
+i=3,j=7,k=1,l=4
+
+placed 3,2
+
+placed 5,4
+
+placed 2,1
+
+placed 3,4
+
+place complete
+after place i=3,j=7,k=1,l=4
+
+enclose entered
+
+l1=3,b1=2,l2=5,b2=4,l3=2,b3=1,l4=3,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=8,b=7,min area=55
+Layout4:l=7,b=10,min area=55,placed in 6 and 10
+Layout5:l=8,b=9,min area=55
+Layout6:l=8,b=8,min area=55
+
+enclose complete n=1
+
+new i=3,j=7,k=1,l=4
+
+i=3,j=7,k=1,l=5
+
+placed 3,2
+
+placed 5,4
+
+placed 2,1
+
+placed 4,3
+
+place complete
+after place i=3,j=7,k=1,l=5
+
+enclose entered
+
+l1=3,b1=2,l2=5,b2=4,l3=2,b3=1,l4=4,b4=3
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=7,min area=50
+Layout3:l=9,b=7,min area=50
+Layout4:l=7,b=9,min area=50,placed in 6 and 10
+Layout5:l=8,b=8,min area=50
+Layout6:l=8,b=7,min area=50
+
+enclose complete n=1
+
+new i=3,j=7,k=1,l=5
+
+exits l
+
+i=3,j=7,k=4,l=0
+
+placed 3,2
+
+placed 5,4
+
+placed 3,4
+
+placed 1,2
+
+place complete
+after place i=3,j=7,k=4,l=0
+
+enclose entered
+
+l1=3,b1=2,l2=5,b2=4,l3=3,b3=4,l4=1,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=6,b=10,min area=60
+Layout3:l=6,b=10,min area=60
+Layout4:l=8,b=8,min area=60,placed in 7 and 3
+Layout5:l=8,b=10,min area=60
+Layout6:l=8,b=8,min area=60
+
+enclose complete n=3
+
+new i=3,j=7,k=4,l=0
+
+i=3,j=7,k=4,l=1
+
+placed 3,2
+
+placed 5,4
+
+placed 3,4
+
+placed 2,1
+
+place complete
+after place i=3,j=7,k=4,l=1
+
+enclose entered
+
+l1=3,b1=2,l2=5,b2=4,l3=3,b3=4,l4=2,b4=1
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=10,min area=55
+Layout3:l=7,b=10,min area=55
+Layout4:l=8,b=7,min area=55,placed in 6 and 10
+Layout5:l=8,b=9,min area=55
+Layout6:l=8,b=8,min area=55
+
+enclose complete n=1
+
+new i=3,j=7,k=4,l=1
+
+exits l
+
+i=3,j=7,k=5,l=0
+
+placed 3,2
+
+placed 5,4
+
+placed 4,3
+
+placed 1,2
+
+place complete
+after place i=3,j=7,k=5,l=0
+
+enclose entered
+
+l1=3,b1=2,l2=5,b2=4,l3=4,b3=3,l4=1,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=6,b=9,min area=54
+Layout3:l=6,b=9,min area=54
+Layout4:l=9,b=8,min area=54,placed in 6 and 10
+Layout5:l=8,b=9,min area=54
+Layout6:l=8,b=7,min area=54
+
+enclose complete n=2
+
+new i=3,j=7,k=5,l=0
+
+i=3,j=7,k=5,l=1
+
+placed 3,2
+
+placed 5,4
+
+placed 4,3
+
+placed 2,1
+
+place complete
+after place i=3,j=7,k=5,l=1
+
+enclose entered
+
+l1=3,b1=2,l2=5,b2=4,l3=4,b3=3,l4=2,b4=1
+Layout1:l=5,b=10,min area=50
+Layout2:l=7,b=9,min area=50
+Layout3:l=7,b=9,min area=50
+Layout4:l=9,b=7,min area=50,placed in 6 and 9
+Layout5:l=8,b=8,min area=50
+Layout6:l=8,b=7,min area=50
+
+enclose complete n=1
+
+new i=3,j=7,k=5,l=1
+
+exits l
+
+exits k
+
+exits j
+i=4,j=0,k=2,l=6
+
+placed 3,4
+
+placed 1,2
+
+placed 2,3
+
+placed 4,5
+
+place complete
+after place i=4,j=0,k=2,l=6
+
+enclose entered
+
+l1=3,b1=4,l2=1,b2=2,l3=2,b3=3,l4=4,b4=5
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=9,min area=56
+Layout3:l=7,b=9,min area=56
+Layout4:l=4,b=12,min area=48,placed in 6 and 9
+Layout5:l=4,b=12,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=2
+
+new i=4,j=0,k=2,l=6
+
+i=4,j=0,k=2,l=7
+
+placed 3,4
+
+placed 1,2
+
+placed 2,3
+
+placed 5,4
+
+place complete
+after place i=4,j=0,k=2,l=7
+
+enclose entered
+
+l1=3,b1=4,l2=1,b2=2,l3=2,b3=3,l4=5,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=8,b=9,min area=65
+Layout4:l=5,b=11,min area=55,placed in 4 and 12
+Layout5:l=5,b=11,min area=55
+Layout6:l=7,b=8,min area=55
+
+enclose complete n=2
+
+new i=4,j=0,k=2,l=7
+
+exits l
+
+i=4,j=0,k=3,l=6
+
+placed 3,4
+
+placed 1,2
+
+placed 3,2
+
+placed 4,5
+
+place complete
+after place i=4,j=0,k=3,l=6
+
+enclose entered
+
+l1=3,b1=4,l2=1,b2=2,l3=3,b3=2,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=7,b=8,min area=52
+Layout4:l=4,b=11,min area=44,placed in 5 and 11
+Layout5:l=4,b=11,min area=44
+Layout6:l=7,b=9,min area=44
+
+enclose complete n=2
+
+new i=4,j=0,k=3,l=6
+
+i=4,j=0,k=3,l=7
+
+placed 3,4
+
+placed 1,2
+
+placed 3,2
+
+placed 5,4
+
+place complete
+after place i=4,j=0,k=3,l=7
+
+enclose entered
+
+l1=3,b1=4,l2=1,b2=2,l3=3,b3=2,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=10,min area=50,placed in 4 and 11
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=8,min area=50
+
+enclose complete n=2
+
+new i=4,j=0,k=3,l=7
+
+exits l
+
+i=4,j=0,k=6,l=2
+
+placed 3,4
+
+placed 1,2
+
+placed 4,5
+
+placed 2,3
+
+place complete
+after place i=4,j=0,k=6,l=2
+
+enclose entered
+
+l1=3,b1=4,l2=1,b2=2,l3=4,b3=5,l4=2,b4=3
+Layout1:l=4,b=14,min area=56
+Layout2:l=6,b=11,min area=56
+Layout3:l=5,b=11,min area=55
+Layout4:l=5,b=12,min area=55,placed in 5 and 10
+Layout5:l=4,b=12,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=4,j=0,k=6,l=2
+
+i=4,j=0,k=6,l=3
+
+placed 3,4
+
+placed 1,2
+
+placed 4,5
+
+placed 3,2
+
+place complete
+after place i=4,j=0,k=6,l=3
+
+enclose entered
+
+l1=3,b1=4,l2=1,b2=2,l3=4,b3=5,l4=3,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=11,min area=52
+Layout3:l=6,b=11,min area=52
+Layout4:l=5,b=11,min area=52,placed in 5 and 10
+Layout5:l=4,b=11,min area=44
+Layout6:l=7,b=9,min area=44
+
+enclose complete n=1
+
+new i=4,j=0,k=6,l=3
+
+exits l
+
+i=4,j=0,k=7,l=2
+
+placed 3,4
+
+placed 1,2
+
+placed 5,4
+
+placed 2,3
+
+place complete
+after place i=4,j=0,k=7,l=2
+
+enclose entered
+
+l1=3,b1=4,l2=1,b2=2,l3=5,b3=4,l4=2,b4=3
+Layout1:l=5,b=13,min area=65
+Layout2:l=7,b=10,min area=65
+Layout3:l=5,b=10,min area=50
+Layout4:l=6,b=11,min area=50,placed in 5 and 10
+Layout5:l=5,b=11,min area=50
+Layout6:l=7,b=8,min area=50
+
+enclose complete n=1
+
+new i=4,j=0,k=7,l=2
+
+i=4,j=0,k=7,l=3
+
+placed 3,4
+
+placed 1,2
+
+placed 5,4
+
+placed 3,2
+
+place complete
+after place i=4,j=0,k=7,l=3
+
+enclose entered
+
+l1=3,b1=4,l2=1,b2=2,l3=5,b3=4,l4=3,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=10,min area=60
+Layout3:l=6,b=10,min area=60
+Layout4:l=6,b=10,min area=60,placed in 0 and 4
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=8,min area=50
+
+enclose complete n=1
+
+new i=4,j=0,k=7,l=3
+
+exits l
+
+exits k
+
+i=4,j=1,k=2,l=6
+
+placed 3,4
+
+placed 2,1
+
+placed 2,3
+
+placed 4,5
+
+place complete
+after place i=4,j=1,k=2,l=6
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=1,l3=2,b3=3,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=7,b=8,min area=52
+Layout4:l=4,b=12,min area=48,placed in 6 and 10
+Layout5:l=5,b=12,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=4,j=1,k=2,l=6
+
+i=4,j=1,k=2,l=7
+
+placed 3,4
+
+placed 2,1
+
+placed 2,3
+
+placed 5,4
+
+place complete
+after place i=4,j=1,k=2,l=7
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=1,l3=2,b3=3,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=11,min area=55,placed in 6 and 10
+Layout5:l=5,b=11,min area=55
+Layout6:l=7,b=8,min area=55
+
+enclose complete n=2
+
+new i=4,j=1,k=2,l=7
+
+exits l
+
+i=4,j=1,k=3,l=6
+
+placed 3,4
+
+placed 2,1
+
+placed 3,2
+
+placed 4,5
+
+place complete
+after place i=4,j=1,k=3,l=6
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=1,l3=3,b3=2,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=7,min area=48
+Layout3:l=7,b=7,min area=48
+Layout4:l=5,b=11,min area=48,placed in 5 and 11
+Layout5:l=5,b=11,min area=48
+Layout6:l=7,b=9,min area=48
+
+enclose complete n=1
+
+new i=4,j=1,k=3,l=6
+
+i=4,j=1,k=3,l=7
+
+placed 3,4
+
+placed 2,1
+
+placed 3,2
+
+placed 5,4
+
+place complete
+after place i=4,j=1,k=3,l=7
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=1,l3=3,b3=2,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=8,b=7,min area=55
+Layout4:l=5,b=10,min area=50,placed in 5 and 11
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=8,min area=50
+
+enclose complete n=2
+
+new i=4,j=1,k=3,l=7
+
+exits l
+
+i=4,j=1,k=6,l=2
+
+placed 3,4
+
+placed 2,1
+
+placed 4,5
+
+placed 2,3
+
+place complete
+after place i=4,j=1,k=6,l=2
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=1,l3=4,b3=5,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=5,b=10,min area=50
+Layout4:l=6,b=12,min area=50,placed in 5 and 10
+Layout5:l=5,b=12,min area=50
+Layout6:l=6,b=9,min area=50
+
+enclose complete n=1
+
+new i=4,j=1,k=6,l=2
+
+i=4,j=1,k=6,l=3
+
+placed 3,4
+
+placed 2,1
+
+placed 4,5
+
+placed 3,2
+
+place complete
+after place i=4,j=1,k=6,l=3
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=1,l3=4,b3=5,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=6,b=10,min area=48
+Layout4:l=6,b=11,min area=48,placed in 5 and 10
+Layout5:l=5,b=11,min area=48
+Layout6:l=7,b=9,min area=48
+
+enclose complete n=1
+
+new i=4,j=1,k=6,l=3
+
+exits l
+
+i=4,j=1,k=7,l=2
+
+placed 3,4
+
+placed 2,1
+
+placed 5,4
+
+placed 2,3
+
+place complete
+after place i=4,j=1,k=7,l=2
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=1,l3=5,b3=4,l4=2,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=9,min area=60
+Layout3:l=5,b=9,min area=45
+Layout4:l=7,b=11,min area=45,placed in 5 and 10
+Layout5:l=5,b=11,min area=45
+Layout6:l=7,b=8,min area=45
+
+enclose complete n=1
+
+new i=4,j=1,k=7,l=2
+
+i=4,j=1,k=7,l=3
+
+placed 3,4
+
+placed 2,1
+
+placed 5,4
+
+placed 3,2
+
+place complete
+after place i=4,j=1,k=7,l=3
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=1,l3=5,b3=4,l4=3,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=9,min area=55
+Layout3:l=6,b=9,min area=54
+Layout4:l=7,b=10,min area=54,placed in 5 and 10
+Layout5:l=5,b=10,min area=50
+Layout6:l=8,b=8,min area=50
+
+enclose complete n=1
+
+new i=4,j=1,k=7,l=3
+
+exits l
+
+exits k
+
+i=4,j=2,k=0,l=6
+
+placed 3,4
+
+placed 2,3
+
+placed 1,2
+
+placed 4,5
+
+place complete
+after place i=4,j=2,k=0,l=6
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=3,l3=1,b3=2,l4=4,b4=5
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=9,min area=56
+Layout3:l=7,b=9,min area=56
+Layout4:l=4,b=12,min area=48,placed in 5 and 10
+Layout5:l=5,b=11,min area=48
+Layout6:l=5,b=9,min area=45
+
+enclose complete n=1
+
+new i=4,j=2,k=0,l=6
+
+i=4,j=2,k=0,l=7
+
+placed 3,4
+
+placed 2,3
+
+placed 1,2
+
+placed 5,4
+
+place complete
+after place i=4,j=2,k=0,l=7
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=3,l3=1,b3=2,l4=5,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=8,b=9,min area=65
+Layout4:l=5,b=11,min area=55,placed in 5 and 10
+Layout5:l=5,b=10,min area=50
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=4,j=2,k=0,l=7
+
+exits l
+
+i=4,j=2,k=1,l=6
+
+placed 3,4
+
+placed 2,3
+
+placed 2,1
+
+placed 4,5
+
+place complete
+after place i=4,j=2,k=1,l=6
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=3,l3=2,b3=1,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=7,b=8,min area=52
+Layout4:l=4,b=12,min area=48,placed in 5 and 10
+Layout5:l=5,b=10,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=4,j=2,k=1,l=6
+
+i=4,j=2,k=1,l=7
+
+placed 3,4
+
+placed 2,3
+
+placed 2,1
+
+placed 5,4
+
+place complete
+after place i=4,j=2,k=1,l=7
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=3,l3=2,b3=1,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=11,min area=55,placed in 5 and 10
+Layout5:l=5,b=9,min area=45
+Layout6:l=7,b=8,min area=45
+
+enclose complete n=1
+
+new i=4,j=2,k=1,l=7
+
+exits l
+
+i=4,j=2,k=6,l=0
+
+placed 3,4
+
+placed 2,3
+
+placed 4,5
+
+placed 1,2
+
+place complete
+after place i=4,j=2,k=6,l=0
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=3,l3=4,b3=5,l4=1,b4=2
+Layout1:l=4,b=14,min area=56
+Layout2:l=5,b=12,min area=56
+Layout3:l=4,b=12,min area=48
+Layout4:l=6,b=11,min area=48,placed in 5 and 10
+Layout5:l=5,b=11,min area=48
+Layout6:l=5,b=9,min area=45
+
+enclose complete n=1
+
+new i=4,j=2,k=6,l=0
+
+i=4,j=2,k=6,l=1
+
+placed 3,4
+
+placed 2,3
+
+placed 4,5
+
+placed 2,1
+
+place complete
+after place i=4,j=2,k=6,l=1
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=3,l3=4,b3=5,l4=2,b4=1
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=12,min area=52
+Layout3:l=5,b=12,min area=52
+Layout4:l=6,b=10,min area=52,placed in 5 and 10
+Layout5:l=5,b=10,min area=50
+Layout6:l=6,b=9,min area=50
+
+enclose complete n=1
+
+new i=4,j=2,k=6,l=1
+
+exits l
+
+i=4,j=2,k=7,l=0
+
+placed 3,4
+
+placed 2,3
+
+placed 5,4
+
+placed 1,2
+
+place complete
+after place i=4,j=2,k=7,l=0
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=3,l3=5,b3=4,l4=1,b4=2
+Layout1:l=5,b=13,min area=65
+Layout2:l=6,b=11,min area=65
+Layout3:l=5,b=11,min area=55
+Layout4:l=7,b=10,min area=55,placed in 5 and 10
+Layout5:l=5,b=10,min area=50
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=4,j=2,k=7,l=0
+
+i=4,j=2,k=7,l=1
+
+placed 3,4
+
+placed 2,3
+
+placed 5,4
+
+placed 2,1
+
+place complete
+after place i=4,j=2,k=7,l=1
+
+enclose entered
+
+l1=3,b1=4,l2=2,b2=3,l3=5,b3=4,l4=2,b4=1
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=11,min area=60
+Layout3:l=5,b=11,min area=55
+Layout4:l=7,b=9,min area=55,placed in 5 and 10
+Layout5:l=5,b=9,min area=45
+Layout6:l=7,b=8,min area=45
+
+enclose complete n=1
+
+new i=4,j=2,k=7,l=1
+
+exits l
+
+exits k
+
+i=4,j=3,k=0,l=6
+
+placed 3,4
+
+placed 3,2
+
+placed 1,2
+
+placed 4,5
+
+place complete
+after place i=4,j=3,k=0,l=6
+
+enclose entered
+
+l1=3,b1=4,l2=3,b2=2,l3=1,b3=2,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=8,min area=52
+Layout3:l=7,b=8,min area=52
+Layout4:l=4,b=11,min area=44,placed in 5 and 10
+Layout5:l=6,b=11,min area=44
+Layout6:l=6,b=9,min area=44
+
+enclose complete n=1
+
+new i=4,j=3,k=0,l=6
+
+i=4,j=3,k=0,l=7
+
+placed 3,4
+
+placed 3,2
+
+placed 1,2
+
+placed 5,4
+
+place complete
+after place i=4,j=3,k=0,l=7
+
+enclose entered
+
+l1=3,b1=4,l2=3,b2=2,l3=1,b3=2,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=10,min area=50,placed in 5 and 10
+Layout5:l=6,b=10,min area=50
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=4,j=3,k=0,l=7
+
+exits l
+
+i=4,j=3,k=1,l=6
+
+placed 3,4
+
+placed 3,2
+
+placed 2,1
+
+placed 4,5
+
+place complete
+after place i=4,j=3,k=1,l=6
+
+enclose entered
+
+l1=3,b1=4,l2=3,b2=2,l3=2,b3=1,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=7,min area=48
+Layout3:l=7,b=7,min area=48
+Layout4:l=5,b=11,min area=48,placed in 5 and 10
+Layout5:l=6,b=10,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=4,j=3,k=1,l=6
+
+i=4,j=3,k=1,l=7
+
+placed 3,4
+
+placed 3,2
+
+placed 2,1
+
+placed 5,4
+
+place complete
+after place i=4,j=3,k=1,l=7
+
+enclose entered
+
+l1=3,b1=4,l2=3,b2=2,l3=2,b3=1,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=8,b=7,min area=55
+Layout4:l=5,b=10,min area=50,placed in 5 and 10
+Layout5:l=6,b=9,min area=50
+Layout6:l=7,b=8,min area=50
+
+enclose complete n=1
+
+new i=4,j=3,k=1,l=7
+
+exits l
+
+i=4,j=3,k=6,l=0
+
+placed 3,4
+
+placed 3,2
+
+placed 4,5
+
+placed 1,2
+
+place complete
+after place i=4,j=3,k=6,l=0
+
+enclose entered
+
+l1=3,b1=4,l2=3,b2=2,l3=4,b3=5,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=4,b=11,min area=44
+Layout4:l=7,b=11,min area=44,placed in 5 and 10
+Layout5:l=6,b=11,min area=44
+Layout6:l=6,b=9,min area=44
+
+enclose complete n=1
+
+new i=4,j=3,k=6,l=0
+
+i=4,j=3,k=6,l=1
+
+placed 3,4
+
+placed 3,2
+
+placed 4,5
+
+placed 2,1
+
+place complete
+after place i=4,j=3,k=6,l=1
+
+enclose entered
+
+l1=3,b1=4,l2=3,b2=2,l3=4,b3=5,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=5,b=11,min area=48
+Layout4:l=7,b=10,min area=48,placed in 5 and 10
+Layout5:l=6,b=10,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=4,j=3,k=6,l=1
+
+exits l
+
+i=4,j=3,k=7,l=0
+
+placed 3,4
+
+placed 3,2
+
+placed 5,4
+
+placed 1,2
+
+place complete
+after place i=4,j=3,k=7,l=0
+
+enclose entered
+
+l1=3,b1=4,l2=3,b2=2,l3=5,b3=4,l4=1,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=6,b=10,min area=60
+Layout3:l=5,b=10,min area=50
+Layout4:l=8,b=10,min area=50,placed in 6 and 10
+Layout5:l=6,b=10,min area=50
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=4,j=3,k=7,l=0
+
+i=4,j=3,k=7,l=1
+
+placed 3,4
+
+placed 3,2
+
+placed 5,4
+
+placed 2,1
+
+place complete
+after place i=4,j=3,k=7,l=1
+
+enclose entered
+
+l1=3,b1=4,l2=3,b2=2,l3=5,b3=4,l4=2,b4=1
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=10,min area=55
+Layout3:l=5,b=10,min area=50
+Layout4:l=8,b=9,min area=50,placed in 6 and 10
+Layout5:l=6,b=9,min area=50
+Layout6:l=7,b=8,min area=50
+
+enclose complete n=1
+
+new i=4,j=3,k=7,l=1
+
+exits l
+
+exits k
+
+i=4,j=6,k=0,l=2
+
+placed 3,4
+
+placed 4,5
+
+placed 1,2
+
+placed 2,3
+
+place complete
+after place i=4,j=6,k=0,l=2
+
+enclose entered
+
+l1=3,b1=4,l2=4,b2=5,l3=1,b3=2,l4=2,b4=3
+Layout1:l=4,b=14,min area=56
+Layout2:l=6,b=11,min area=56
+Layout3:l=6,b=11,min area=56
+Layout4:l=5,b=12,min area=56,placed in 6 and 10
+Layout5:l=7,b=10,min area=56
+Layout6:l=7,b=8,min area=56
+
+enclose complete n=2
+
+new i=4,j=6,k=0,l=2
+
+i=4,j=6,k=0,l=3
+
+placed 3,4
+
+placed 4,5
+
+placed 1,2
+
+placed 3,2
+
+place complete
+after place i=4,j=6,k=0,l=3
+
+enclose entered
+
+l1=3,b1=4,l2=4,b2=5,l3=1,b3=2,l4=3,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=11,min area=52
+Layout3:l=7,b=11,min area=52
+Layout4:l=5,b=11,min area=52,placed in 7 and 8
+Layout5:l=7,b=9,min area=52
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=4,j=6,k=0,l=3
+
+exits l
+
+i=4,j=6,k=1,l=2
+
+placed 3,4
+
+placed 4,5
+
+placed 2,1
+
+placed 2,3
+
+place complete
+after place i=4,j=6,k=1,l=2
+
+enclose entered
+
+l1=3,b1=4,l2=4,b2=5,l3=2,b3=1,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=6,b=12,min area=52,placed in 7 and 8
+Layout5:l=7,b=9,min area=52
+Layout6:l=7,b=8,min area=52
+
+enclose complete n=1
+
+new i=4,j=6,k=1,l=2
+
+i=4,j=6,k=1,l=3
+
+placed 3,4
+
+placed 4,5
+
+placed 2,1
+
+placed 3,2
+
+place complete
+after place i=4,j=6,k=1,l=3
+
+enclose entered
+
+l1=3,b1=4,l2=4,b2=5,l3=2,b3=1,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=7,b=10,min area=48
+Layout4:l=6,b=11,min area=48,placed in 7 and 8
+Layout5:l=7,b=8,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=4,j=6,k=1,l=3
+
+exits l
+
+i=4,j=6,k=2,l=0
+
+placed 3,4
+
+placed 4,5
+
+placed 2,3
+
+placed 1,2
+
+place complete
+after place i=4,j=6,k=2,l=0
+
+enclose entered
+
+l1=3,b1=4,l2=4,b2=5,l3=2,b3=3,l4=1,b4=2
+Layout1:l=4,b=14,min area=56
+Layout2:l=5,b=12,min area=56
+Layout3:l=5,b=12,min area=56
+Layout4:l=6,b=11,min area=56,placed in 7 and 8
+Layout5:l=7,b=10,min area=56
+Layout6:l=7,b=8,min area=56
+
+enclose complete n=2
+
+new i=4,j=6,k=2,l=0
+
+i=4,j=6,k=2,l=1
+
+placed 3,4
+
+placed 4,5
+
+placed 2,3
+
+placed 2,1
+
+place complete
+after place i=4,j=6,k=2,l=1
+
+enclose entered
+
+l1=3,b1=4,l2=4,b2=5,l3=2,b3=3,l4=2,b4=1
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=12,min area=52
+Layout3:l=6,b=12,min area=52
+Layout4:l=6,b=10,min area=52,placed in 7 and 8
+Layout5:l=7,b=9,min area=52
+Layout6:l=7,b=8,min area=52
+
+enclose complete n=1
+
+new i=4,j=6,k=2,l=1
+
+exits l
+
+i=4,j=6,k=3,l=0
+
+placed 3,4
+
+placed 4,5
+
+placed 3,2
+
+placed 1,2
+
+place complete
+after place i=4,j=6,k=3,l=0
+
+enclose entered
+
+l1=3,b1=4,l2=4,b2=5,l3=3,b3=2,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=5,b=11,min area=52
+Layout4:l=7,b=11,min area=52,placed in 7 and 8
+Layout5:l=7,b=9,min area=52
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=4,j=6,k=3,l=0
+
+i=4,j=6,k=3,l=1
+
+placed 3,4
+
+placed 4,5
+
+placed 3,2
+
+placed 2,1
+
+place complete
+after place i=4,j=6,k=3,l=1
+
+enclose entered
+
+l1=3,b1=4,l2=4,b2=5,l3=3,b3=2,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=6,b=11,min area=48
+Layout4:l=7,b=10,min area=48,placed in 7 and 8
+Layout5:l=7,b=8,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=4,j=6,k=3,l=1
+
+exits l
+
+exits k
+
+i=4,j=7,k=0,l=2
+
+placed 3,4
+
+placed 5,4
+
+placed 1,2
+
+placed 2,3
+
+place complete
+after place i=4,j=7,k=0,l=2
+
+enclose entered
+
+l1=3,b1=4,l2=5,b2=4,l3=1,b3=2,l4=2,b4=3
+Layout1:l=5,b=13,min area=65
+Layout2:l=7,b=10,min area=65
+Layout3:l=7,b=10,min area=65
+Layout4:l=6,b=11,min area=65,placed in 7 and 8
+Layout5:l=8,b=9,min area=65
+Layout6:l=8,b=7,min area=56
+
+enclose complete n=1
+
+new i=4,j=7,k=0,l=2
+
+i=4,j=7,k=0,l=3
+
+placed 3,4
+
+placed 5,4
+
+placed 1,2
+
+placed 3,2
+
+place complete
+after place i=4,j=7,k=0,l=3
+
+enclose entered
+
+l1=3,b1=4,l2=5,b2=4,l3=1,b3=2,l4=3,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=10,min area=60
+Layout3:l=8,b=10,min area=60
+Layout4:l=6,b=10,min area=60,placed in 6 and 10
+Layout5:l=8,b=8,min area=60
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=4,j=7,k=0,l=3
+
+exits l
+
+i=4,j=7,k=1,l=2
+
+placed 3,4
+
+placed 5,4
+
+placed 2,1
+
+placed 2,3
+
+place complete
+after place i=4,j=7,k=1,l=2
+
+enclose entered
+
+l1=3,b1=4,l2=5,b2=4,l3=2,b3=1,l4=2,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=9,min area=60
+Layout3:l=7,b=9,min area=60
+Layout4:l=7,b=11,min area=60,placed in 6 and 10
+Layout5:l=8,b=8,min area=60
+Layout6:l=8,b=7,min area=56
+
+enclose complete n=1
+
+new i=4,j=7,k=1,l=2
+
+i=4,j=7,k=1,l=3
+
+placed 3,4
+
+placed 5,4
+
+placed 2,1
+
+placed 3,2
+
+place complete
+after place i=4,j=7,k=1,l=3
+
+enclose entered
+
+l1=3,b1=4,l2=5,b2=4,l3=2,b3=1,l4=3,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=9,min area=55
+Layout3:l=8,b=9,min area=55
+Layout4:l=7,b=10,min area=55,placed in 6 and 10
+Layout5:l=8,b=7,min area=55
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=4,j=7,k=1,l=3
+
+exits l
+
+i=4,j=7,k=2,l=0
+
+placed 3,4
+
+placed 5,4
+
+placed 2,3
+
+placed 1,2
+
+place complete
+after place i=4,j=7,k=2,l=0
+
+enclose entered
+
+l1=3,b1=4,l2=5,b2=4,l3=2,b3=3,l4=1,b4=2
+Layout1:l=5,b=13,min area=65
+Layout2:l=6,b=11,min area=65
+Layout3:l=6,b=11,min area=65
+Layout4:l=7,b=10,min area=65,placed in 6 and 10
+Layout5:l=8,b=9,min area=65
+Layout6:l=8,b=7,min area=56
+
+enclose complete n=1
+
+new i=4,j=7,k=2,l=0
+
+i=4,j=7,k=2,l=1
+
+placed 3,4
+
+placed 5,4
+
+placed 2,3
+
+placed 2,1
+
+place complete
+after place i=4,j=7,k=2,l=1
+
+enclose entered
+
+l1=3,b1=4,l2=5,b2=4,l3=2,b3=3,l4=2,b4=1
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=11,min area=60
+Layout3:l=7,b=11,min area=60
+Layout4:l=7,b=9,min area=60,placed in 6 and 10
+Layout5:l=8,b=8,min area=60
+Layout6:l=8,b=7,min area=56
+
+enclose complete n=1
+
+new i=4,j=7,k=2,l=1
+
+exits l
+
+i=4,j=7,k=3,l=0
+
+placed 3,4
+
+placed 5,4
+
+placed 3,2
+
+placed 1,2
+
+place complete
+after place i=4,j=7,k=3,l=0
+
+enclose entered
+
+l1=3,b1=4,l2=5,b2=4,l3=3,b3=2,l4=1,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=6,b=10,min area=60
+Layout3:l=6,b=10,min area=60
+Layout4:l=8,b=10,min area=60,placed in 7 and 4
+Layout5:l=8,b=8,min area=60
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=4,j=7,k=3,l=0
+
+i=4,j=7,k=3,l=1
+
+placed 3,4
+
+placed 5,4
+
+placed 3,2
+
+placed 2,1
+
+place complete
+after place i=4,j=7,k=3,l=1
+
+enclose entered
+
+l1=3,b1=4,l2=5,b2=4,l3=3,b3=2,l4=2,b4=1
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=10,min area=55
+Layout3:l=7,b=10,min area=55
+Layout4:l=8,b=9,min area=55,placed in 6 and 10
+Layout5:l=8,b=7,min area=55
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=4,j=7,k=3,l=1
+
+exits l
+
+exits k
+
+exits j
+i=5,j=0,k=2,l=6
+
+placed 4,3
+
+placed 1,2
+
+placed 2,3
+
+placed 4,5
+
+place complete
+after place i=5,j=0,k=2,l=6
+
+enclose entered
+
+l1=4,b1=3,l2=1,b2=2,l3=2,b3=3,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=8,min area=52
+Layout3:l=8,b=8,min area=52
+Layout4:l=4,b=11,min area=44,placed in 6 and 10
+Layout5:l=5,b=11,min area=44
+Layout6:l=6,b=8,min area=44
+
+enclose complete n=1
+
+new i=5,j=0,k=2,l=6
+
+i=5,j=0,k=2,l=7
+
+placed 4,3
+
+placed 1,2
+
+placed 2,3
+
+placed 5,4
+
+place complete
+after place i=5,j=0,k=2,l=7
+
+enclose entered
+
+l1=4,b1=3,l2=1,b2=2,l3=2,b3=3,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=8,min area=60
+Layout3:l=9,b=8,min area=60
+Layout4:l=5,b=10,min area=50,placed in 6 and 10
+Layout5:l=5,b=10,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=5,j=0,k=2,l=7
+
+exits l
+
+i=5,j=0,k=3,l=6
+
+placed 4,3
+
+placed 1,2
+
+placed 3,2
+
+placed 4,5
+
+place complete
+after place i=5,j=0,k=3,l=6
+
+enclose entered
+
+l1=4,b1=3,l2=1,b2=2,l3=3,b3=2,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=8,b=7,min area=48
+Layout4:l=4,b=10,min area=40,placed in 5 and 10
+Layout5:l=5,b=10,min area=40
+Layout6:l=7,b=8,min area=40
+
+enclose complete n=1
+
+new i=5,j=0,k=3,l=6
+
+i=5,j=0,k=3,l=7
+
+placed 4,3
+
+placed 1,2
+
+placed 3,2
+
+placed 5,4
+
+place complete
+after place i=5,j=0,k=3,l=7
+
+enclose entered
+
+l1=4,b1=3,l2=1,b2=2,l3=3,b3=2,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=9,b=7,min area=55
+Layout4:l=5,b=9,min area=45,placed in 5 and 10
+Layout5:l=5,b=9,min area=45
+Layout6:l=8,b=7,min area=45
+
+enclose complete n=2
+
+new i=5,j=0,k=3,l=7
+
+exits l
+
+i=5,j=0,k=6,l=2
+
+placed 4,3
+
+placed 1,2
+
+placed 4,5
+
+placed 2,3
+
+place complete
+after place i=5,j=0,k=6,l=2
+
+enclose entered
+
+l1=4,b1=3,l2=1,b2=2,l3=4,b3=5,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=5,b=11,min area=52,placed in 5 and 9
+Layout5:l=5,b=11,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=5,j=0,k=6,l=2
+
+i=5,j=0,k=6,l=3
+
+placed 4,3
+
+placed 1,2
+
+placed 4,5
+
+placed 3,2
+
+place complete
+after place i=5,j=0,k=6,l=3
+
+enclose entered
+
+l1=4,b1=3,l2=1,b2=2,l3=4,b3=5,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=7,b=10,min area=48
+Layout4:l=5,b=10,min area=48,placed in 5 and 9
+Layout5:l=5,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=5,j=0,k=6,l=3
+
+exits l
+
+i=5,j=0,k=7,l=2
+
+placed 4,3
+
+placed 1,2
+
+placed 5,4
+
+placed 2,3
+
+place complete
+after place i=5,j=0,k=7,l=2
+
+enclose entered
+
+l1=4,b1=3,l2=1,b2=2,l3=5,b3=4,l4=2,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=9,min area=60
+Layout3:l=6,b=9,min area=54
+Layout4:l=6,b=10,min area=54,placed in 5 and 9
+Layout5:l=5,b=10,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=5,j=0,k=7,l=2
+
+i=5,j=0,k=7,l=3
+
+placed 4,3
+
+placed 1,2
+
+placed 5,4
+
+placed 3,2
+
+place complete
+after place i=5,j=0,k=7,l=3
+
+enclose entered
+
+l1=4,b1=3,l2=1,b2=2,l3=5,b3=4,l4=3,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=9,min area=55
+Layout3:l=7,b=9,min area=55
+Layout4:l=6,b=9,min area=54,placed in 5 and 9
+Layout5:l=5,b=9,min area=45
+Layout6:l=8,b=7,min area=45
+
+enclose complete n=1
+
+new i=5,j=0,k=7,l=3
+
+exits l
+
+exits k
+
+i=5,j=1,k=2,l=6
+
+placed 4,3
+
+placed 2,1
+
+placed 2,3
+
+placed 4,5
+
+place complete
+after place i=5,j=1,k=2,l=6
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=1,l3=2,b3=3,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=8,b=8,min area=48
+Layout4:l=4,b=11,min area=44,placed in 5 and 9
+Layout5:l=6,b=11,min area=44
+Layout6:l=6,b=8,min area=44
+
+enclose complete n=1
+
+new i=5,j=1,k=2,l=6
+
+i=5,j=1,k=2,l=7
+
+placed 4,3
+
+placed 2,1
+
+placed 2,3
+
+placed 5,4
+
+place complete
+after place i=5,j=1,k=2,l=7
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=1,l3=2,b3=3,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=9,b=7,min area=55
+Layout4:l=5,b=10,min area=50,placed in 5 and 9
+Layout5:l=6,b=10,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=5,j=1,k=2,l=7
+
+exits l
+
+i=5,j=1,k=3,l=6
+
+placed 4,3
+
+placed 2,1
+
+placed 3,2
+
+placed 4,5
+
+place complete
+after place i=5,j=1,k=3,l=6
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=1,l3=3,b3=2,l4=4,b4=5
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=6,min area=44
+Layout3:l=8,b=7,min area=44
+Layout4:l=5,b=10,min area=44,placed in 5 and 9
+Layout5:l=6,b=10,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=5,j=1,k=3,l=6
+
+i=5,j=1,k=3,l=7
+
+placed 4,3
+
+placed 2,1
+
+placed 3,2
+
+placed 5,4
+
+place complete
+after place i=5,j=1,k=3,l=7
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=1,l3=3,b3=2,l4=5,b4=4
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=6,min area=50
+Layout3:l=9,b=6,min area=50
+Layout4:l=5,b=9,min area=45,placed in 5 and 9
+Layout5:l=6,b=9,min area=45
+Layout6:l=8,b=7,min area=45
+
+enclose complete n=1
+
+new i=5,j=1,k=3,l=7
+
+exits l
+
+i=5,j=1,k=6,l=2
+
+placed 4,3
+
+placed 2,1
+
+placed 4,5
+
+placed 2,3
+
+place complete
+after place i=5,j=1,k=6,l=2
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=1,l3=4,b3=5,l4=2,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=9,min area=48
+Layout3:l=6,b=9,min area=48
+Layout4:l=6,b=11,min area=48,placed in 5 and 9
+Layout5:l=6,b=11,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=5,j=1,k=6,l=2
+
+i=5,j=1,k=6,l=3
+
+placed 4,3
+
+placed 2,1
+
+placed 4,5
+
+placed 3,2
+
+place complete
+after place i=5,j=1,k=6,l=3
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=1,l3=4,b3=5,l4=3,b4=2
+Layout1:l=4,b=11,min area=44
+Layout2:l=7,b=9,min area=44
+Layout3:l=7,b=9,min area=44
+Layout4:l=6,b=10,min area=44,placed in 6 and 8
+Layout5:l=6,b=10,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=5,j=1,k=6,l=3
+
+exits l
+
+i=5,j=1,k=7,l=2
+
+placed 4,3
+
+placed 2,1
+
+placed 5,4
+
+placed 2,3
+
+place complete
+after place i=5,j=1,k=7,l=2
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=1,l3=5,b3=4,l4=2,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=8,min area=55
+Layout3:l=6,b=8,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 8
+Layout5:l=6,b=10,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=5,j=1,k=7,l=2
+
+i=5,j=1,k=7,l=3
+
+placed 4,3
+
+placed 2,1
+
+placed 5,4
+
+placed 3,2
+
+place complete
+after place i=5,j=1,k=7,l=3
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=1,l3=5,b3=4,l4=3,b4=2
+Layout1:l=5,b=10,min area=50
+Layout2:l=8,b=8,min area=50
+Layout3:l=7,b=8,min area=50
+Layout4:l=7,b=9,min area=50,placed in 6 and 8
+Layout5:l=6,b=9,min area=50
+Layout6:l=8,b=7,min area=50
+
+enclose complete n=1
+
+new i=5,j=1,k=7,l=3
+
+exits l
+
+exits k
+
+i=5,j=2,k=0,l=6
+
+placed 4,3
+
+placed 2,3
+
+placed 1,2
+
+placed 4,5
+
+place complete
+after place i=5,j=2,k=0,l=6
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=3,l3=1,b3=2,l4=4,b4=5
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=8,min area=52
+Layout3:l=8,b=8,min area=52
+Layout4:l=4,b=11,min area=44,placed in 6 and 8
+Layout5:l=6,b=10,min area=44
+Layout6:l=6,b=8,min area=44
+
+enclose complete n=1
+
+new i=5,j=2,k=0,l=6
+
+i=5,j=2,k=0,l=7
+
+placed 4,3
+
+placed 2,3
+
+placed 1,2
+
+placed 5,4
+
+place complete
+after place i=5,j=2,k=0,l=7
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=3,l3=1,b3=2,l4=5,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=8,min area=60
+Layout3:l=9,b=8,min area=60
+Layout4:l=5,b=10,min area=50,placed in 6 and 8
+Layout5:l=6,b=9,min area=50
+Layout6:l=6,b=7,min area=42
+
+enclose complete n=1
+
+new i=5,j=2,k=0,l=7
+
+exits l
+
+i=5,j=2,k=1,l=6
+
+placed 4,3
+
+placed 2,3
+
+placed 2,1
+
+placed 4,5
+
+place complete
+after place i=5,j=2,k=1,l=6
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=3,l3=2,b3=1,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=8,b=7,min area=48
+Layout4:l=4,b=11,min area=44,placed in 6 and 8
+Layout5:l=6,b=9,min area=44
+Layout6:l=6,b=8,min area=44
+
+enclose complete n=1
+
+new i=5,j=2,k=1,l=6
+
+i=5,j=2,k=1,l=7
+
+placed 4,3
+
+placed 2,3
+
+placed 2,1
+
+placed 5,4
+
+place complete
+after place i=5,j=2,k=1,l=7
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=3,l3=2,b3=1,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=9,b=7,min area=55
+Layout4:l=5,b=10,min area=50,placed in 6 and 8
+Layout5:l=6,b=8,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=5,j=2,k=1,l=7
+
+exits l
+
+i=5,j=2,k=6,l=0
+
+placed 4,3
+
+placed 2,3
+
+placed 4,5
+
+placed 1,2
+
+place complete
+after place i=5,j=2,k=6,l=0
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=3,l3=4,b3=5,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=5,b=11,min area=52
+Layout4:l=6,b=10,min area=52,placed in 6 and 8
+Layout5:l=6,b=10,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=5,j=2,k=6,l=0
+
+i=5,j=2,k=6,l=1
+
+placed 4,3
+
+placed 2,3
+
+placed 4,5
+
+placed 2,1
+
+place complete
+after place i=5,j=2,k=6,l=1
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=3,l3=4,b3=5,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=6,b=11,min area=48
+Layout4:l=6,b=9,min area=48,placed in 6 and 8
+Layout5:l=6,b=9,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=5,j=2,k=6,l=1
+
+exits l
+
+i=5,j=2,k=7,l=0
+
+placed 4,3
+
+placed 2,3
+
+placed 5,4
+
+placed 1,2
+
+place complete
+after place i=5,j=2,k=7,l=0
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=3,l3=5,b3=4,l4=1,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=6,b=10,min area=60
+Layout3:l=5,b=10,min area=50
+Layout4:l=7,b=9,min area=50,placed in 6 and 10
+Layout5:l=6,b=9,min area=50
+Layout6:l=6,b=7,min area=42
+
+enclose complete n=1
+
+new i=5,j=2,k=7,l=0
+
+i=5,j=2,k=7,l=1
+
+placed 4,3
+
+placed 2,3
+
+placed 5,4
+
+placed 2,1
+
+place complete
+after place i=5,j=2,k=7,l=1
+
+enclose entered
+
+l1=4,b1=3,l2=2,b2=3,l3=5,b3=4,l4=2,b4=1
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=10,min area=55
+Layout3:l=6,b=10,min area=55
+Layout4:l=7,b=8,min area=55,placed in 6 and 10
+Layout5:l=6,b=8,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=5,j=2,k=7,l=1
+
+exits l
+
+exits k
+
+i=5,j=3,k=0,l=6
+
+placed 4,3
+
+placed 3,2
+
+placed 1,2
+
+placed 4,5
+
+place complete
+after place i=5,j=3,k=0,l=6
+
+enclose entered
+
+l1=4,b1=3,l2=3,b2=2,l3=1,b3=2,l4=4,b4=5
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=7,min area=48
+Layout3:l=8,b=7,min area=48
+Layout4:l=4,b=10,min area=40,placed in 6 and 10
+Layout5:l=7,b=10,min area=40
+Layout6:l=7,b=8,min area=40
+
+enclose complete n=1
+
+new i=5,j=3,k=0,l=6
+
+i=5,j=3,k=0,l=7
+
+placed 4,3
+
+placed 3,2
+
+placed 1,2
+
+placed 5,4
+
+place complete
+after place i=5,j=3,k=0,l=7
+
+enclose entered
+
+l1=4,b1=3,l2=3,b2=2,l3=1,b3=2,l4=5,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=7,min area=55
+Layout3:l=9,b=7,min area=55
+Layout4:l=5,b=9,min area=45,placed in 6 and 10
+Layout5:l=7,b=9,min area=45
+Layout6:l=7,b=7,min area=45
+
+enclose complete n=1
+
+new i=5,j=3,k=0,l=7
+
+exits l
+
+i=5,j=3,k=1,l=6
+
+placed 4,3
+
+placed 3,2
+
+placed 2,1
+
+placed 4,5
+
+place complete
+after place i=5,j=3,k=1,l=6
+
+enclose entered
+
+l1=4,b1=3,l2=3,b2=2,l3=2,b3=1,l4=4,b4=5
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=6,min area=44
+Layout3:l=8,b=6,min area=44
+Layout4:l=5,b=10,min area=44,placed in 6 and 10
+Layout5:l=7,b=9,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=5,j=3,k=1,l=6
+
+i=5,j=3,k=1,l=7
+
+placed 4,3
+
+placed 3,2
+
+placed 2,1
+
+placed 5,4
+
+place complete
+after place i=5,j=3,k=1,l=7
+
+enclose entered
+
+l1=4,b1=3,l2=3,b2=2,l3=2,b3=1,l4=5,b4=4
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=6,min area=50
+Layout3:l=9,b=6,min area=50
+Layout4:l=5,b=9,min area=45,placed in 6 and 10
+Layout5:l=7,b=8,min area=45
+Layout6:l=7,b=7,min area=45
+
+enclose complete n=1
+
+new i=5,j=3,k=1,l=7
+
+exits l
+
+i=5,j=3,k=6,l=0
+
+placed 4,3
+
+placed 3,2
+
+placed 4,5
+
+placed 1,2
+
+place complete
+after place i=5,j=3,k=6,l=0
+
+enclose entered
+
+l1=4,b1=3,l2=3,b2=2,l3=4,b3=5,l4=1,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=5,b=10,min area=48
+Layout3:l=5,b=10,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 10
+Layout5:l=7,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=5,j=3,k=6,l=0
+
+i=5,j=3,k=6,l=1
+
+placed 4,3
+
+placed 3,2
+
+placed 4,5
+
+placed 2,1
+
+place complete
+after place i=5,j=3,k=6,l=1
+
+enclose entered
+
+l1=4,b1=3,l2=3,b2=2,l3=4,b3=5,l4=2,b4=1
+Layout1:l=4,b=11,min area=44
+Layout2:l=6,b=10,min area=44
+Layout3:l=6,b=10,min area=44
+Layout4:l=7,b=9,min area=44,placed in 6 and 10
+Layout5:l=7,b=9,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=5,j=3,k=6,l=1
+
+exits l
+
+i=5,j=3,k=7,l=0
+
+placed 4,3
+
+placed 3,2
+
+placed 5,4
+
+placed 1,2
+
+place complete
+after place i=5,j=3,k=7,l=0
+
+enclose entered
+
+l1=4,b1=3,l2=3,b2=2,l3=5,b3=4,l4=1,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=6,b=9,min area=54
+Layout3:l=5,b=9,min area=45
+Layout4:l=8,b=9,min area=45,placed in 6 and 10
+Layout5:l=7,b=9,min area=45
+Layout6:l=7,b=7,min area=45
+
+enclose complete n=1
+
+new i=5,j=3,k=7,l=0
+
+i=5,j=3,k=7,l=1
+
+placed 4,3
+
+placed 3,2
+
+placed 5,4
+
+placed 2,1
+
+place complete
+after place i=5,j=3,k=7,l=1
+
+enclose entered
+
+l1=4,b1=3,l2=3,b2=2,l3=5,b3=4,l4=2,b4=1
+Layout1:l=5,b=10,min area=50
+Layout2:l=7,b=9,min area=50
+Layout3:l=6,b=9,min area=50
+Layout4:l=8,b=8,min area=50,placed in 6 and 10
+Layout5:l=7,b=8,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=5,j=3,k=7,l=1
+
+exits l
+
+exits k
+
+i=5,j=6,k=0,l=2
+
+placed 4,3
+
+placed 4,5
+
+placed 1,2
+
+placed 2,3
+
+place complete
+after place i=5,j=6,k=0,l=2
+
+enclose entered
+
+l1=4,b1=3,l2=4,b2=5,l3=1,b3=2,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=5,b=11,min area=52,placed in 6 and 10
+Layout5:l=8,b=10,min area=52
+Layout6:l=8,b=8,min area=52
+
+enclose complete n=1
+
+new i=5,j=6,k=0,l=2
+
+i=5,j=6,k=0,l=3
+
+placed 4,3
+
+placed 4,5
+
+placed 1,2
+
+placed 3,2
+
+place complete
+after place i=5,j=6,k=0,l=3
+
+enclose entered
+
+l1=4,b1=3,l2=4,b2=5,l3=1,b3=2,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=7,b=10,min area=48
+Layout4:l=5,b=10,min area=48,placed in 6 and 10
+Layout5:l=8,b=9,min area=48
+Layout6:l=8,b=7,min area=48
+
+enclose complete n=1
+
+new i=5,j=6,k=0,l=3
+
+exits l
+
+i=5,j=6,k=1,l=2
+
+placed 4,3
+
+placed 4,5
+
+placed 2,1
+
+placed 2,3
+
+place complete
+after place i=5,j=6,k=1,l=2
+
+enclose entered
+
+l1=4,b1=3,l2=4,b2=5,l3=2,b3=1,l4=2,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=9,min area=48
+Layout3:l=6,b=9,min area=48
+Layout4:l=6,b=11,min area=48,placed in 6 and 10
+Layout5:l=8,b=9,min area=48
+Layout6:l=8,b=8,min area=48
+
+enclose complete n=1
+
+new i=5,j=6,k=1,l=2
+
+i=5,j=6,k=1,l=3
+
+placed 4,3
+
+placed 4,5
+
+placed 2,1
+
+placed 3,2
+
+place complete
+after place i=5,j=6,k=1,l=3
+
+enclose entered
+
+l1=4,b1=3,l2=4,b2=5,l3=2,b3=1,l4=3,b4=2
+Layout1:l=4,b=11,min area=44
+Layout2:l=7,b=9,min area=44
+Layout3:l=7,b=9,min area=44
+Layout4:l=6,b=10,min area=44,placed in 6 and 10
+Layout5:l=8,b=8,min area=44
+Layout6:l=8,b=7,min area=44
+
+enclose complete n=1
+
+new i=5,j=6,k=1,l=3
+
+exits l
+
+i=5,j=6,k=2,l=0
+
+placed 4,3
+
+placed 4,5
+
+placed 2,3
+
+placed 1,2
+
+place complete
+after place i=5,j=6,k=2,l=0
+
+enclose entered
+
+l1=4,b1=3,l2=4,b2=5,l3=2,b3=3,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=5,b=11,min area=52
+Layout4:l=6,b=10,min area=52,placed in 6 and 10
+Layout5:l=8,b=10,min area=52
+Layout6:l=8,b=8,min area=52
+
+enclose complete n=1
+
+new i=5,j=6,k=2,l=0
+
+i=5,j=6,k=2,l=1
+
+placed 4,3
+
+placed 4,5
+
+placed 2,3
+
+placed 2,1
+
+place complete
+after place i=5,j=6,k=2,l=1
+
+enclose entered
+
+l1=4,b1=3,l2=4,b2=5,l3=2,b3=3,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=6,b=11,min area=48
+Layout4:l=6,b=9,min area=48,placed in 6 and 10
+Layout5:l=8,b=9,min area=48
+Layout6:l=8,b=8,min area=48
+
+enclose complete n=1
+
+new i=5,j=6,k=2,l=1
+
+exits l
+
+i=5,j=6,k=3,l=0
+
+placed 4,3
+
+placed 4,5
+
+placed 3,2
+
+placed 1,2
+
+place complete
+after place i=5,j=6,k=3,l=0
+
+enclose entered
+
+l1=4,b1=3,l2=4,b2=5,l3=3,b3=2,l4=1,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=5,b=10,min area=48
+Layout3:l=5,b=10,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 10
+Layout5:l=8,b=9,min area=48
+Layout6:l=8,b=7,min area=48
+
+enclose complete n=1
+
+new i=5,j=6,k=3,l=0
+
+i=5,j=6,k=3,l=1
+
+placed 4,3
+
+placed 4,5
+
+placed 3,2
+
+placed 2,1
+
+place complete
+after place i=5,j=6,k=3,l=1
+
+enclose entered
+
+l1=4,b1=3,l2=4,b2=5,l3=3,b3=2,l4=2,b4=1
+Layout1:l=4,b=11,min area=44
+Layout2:l=6,b=10,min area=44
+Layout3:l=6,b=10,min area=44
+Layout4:l=7,b=9,min area=44,placed in 6 and 10
+Layout5:l=8,b=8,min area=44
+Layout6:l=8,b=7,min area=44
+
+enclose complete n=1
+
+new i=5,j=6,k=3,l=1
+
+exits l
+
+exits k
+
+i=5,j=7,k=0,l=2
+
+placed 4,3
+
+placed 5,4
+
+placed 1,2
+
+placed 2,3
+
+place complete
+after place i=5,j=7,k=0,l=2
+
+enclose entered
+
+l1=4,b1=3,l2=5,b2=4,l3=1,b3=2,l4=2,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=9,min area=60
+Layout3:l=7,b=9,min area=60
+Layout4:l=6,b=10,min area=60,placed in 6 and 10
+Layout5:l=9,b=9,min area=60
+Layout6:l=9,b=7,min area=60
+
+enclose complete n=2
+
+new i=5,j=7,k=0,l=2
+
+i=5,j=7,k=0,l=3
+
+placed 4,3
+
+placed 5,4
+
+placed 1,2
+
+placed 3,2
+
+place complete
+after place i=5,j=7,k=0,l=3
+
+enclose entered
+
+l1=4,b1=3,l2=5,b2=4,l3=1,b3=2,l4=3,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=9,min area=55
+Layout3:l=8,b=9,min area=55
+Layout4:l=6,b=9,min area=54,placed in 6 and 10
+Layout5:l=9,b=8,min area=54
+Layout6:l=9,b=6,min area=54
+
+enclose complete n=2
+
+new i=5,j=7,k=0,l=3
+
+exits l
+
+i=5,j=7,k=1,l=2
+
+placed 4,3
+
+placed 5,4
+
+placed 2,1
+
+placed 2,3
+
+place complete
+after place i=5,j=7,k=1,l=2
+
+enclose entered
+
+l1=4,b1=3,l2=5,b2=4,l3=2,b3=1,l4=2,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=8,min area=55
+Layout3:l=7,b=8,min area=55
+Layout4:l=7,b=10,min area=55,placed in 9 and 6
+Layout5:l=9,b=8,min area=55
+Layout6:l=9,b=7,min area=55
+
+enclose complete n=1
+
+new i=5,j=7,k=1,l=2
+
+i=5,j=7,k=1,l=3
+
+placed 4,3
+
+placed 5,4
+
+placed 2,1
+
+placed 3,2
+
+place complete
+after place i=5,j=7,k=1,l=3
+
+enclose entered
+
+l1=4,b1=3,l2=5,b2=4,l3=2,b3=1,l4=3,b4=2
+Layout1:l=5,b=10,min area=50
+Layout2:l=8,b=8,min area=50
+Layout3:l=8,b=8,min area=50
+Layout4:l=7,b=9,min area=50,placed in 9 and 6
+Layout5:l=9,b=7,min area=50
+Layout6:l=9,b=6,min area=50
+
+enclose complete n=1
+
+new i=5,j=7,k=1,l=3
+
+exits l
+
+i=5,j=7,k=2,l=0
+
+placed 4,3
+
+placed 5,4
+
+placed 2,3
+
+placed 1,2
+
+place complete
+after place i=5,j=7,k=2,l=0
+
+enclose entered
+
+l1=4,b1=3,l2=5,b2=4,l3=2,b3=3,l4=1,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=6,b=10,min area=60
+Layout3:l=6,b=10,min area=60
+Layout4:l=7,b=9,min area=60,placed in 7 and 5
+Layout5:l=9,b=9,min area=60
+Layout6:l=9,b=7,min area=60
+
+enclose complete n=3
+
+new i=5,j=7,k=2,l=0
+
+i=5,j=7,k=2,l=1
+
+placed 4,3
+
+placed 5,4
+
+placed 2,3
+
+placed 2,1
+
+place complete
+after place i=5,j=7,k=2,l=1
+
+enclose entered
+
+l1=4,b1=3,l2=5,b2=4,l3=2,b3=3,l4=2,b4=1
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=10,min area=55
+Layout3:l=7,b=10,min area=55
+Layout4:l=7,b=8,min area=55,placed in 6 and 10
+Layout5:l=9,b=8,min area=55
+Layout6:l=9,b=7,min area=55
+
+enclose complete n=1
+
+new i=5,j=7,k=2,l=1
+
+exits l
+
+i=5,j=7,k=3,l=0
+
+placed 4,3
+
+placed 5,4
+
+placed 3,2
+
+placed 1,2
+
+place complete
+after place i=5,j=7,k=3,l=0
+
+enclose entered
+
+l1=4,b1=3,l2=5,b2=4,l3=3,b3=2,l4=1,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=6,b=9,min area=54
+Layout3:l=6,b=9,min area=54
+Layout4:l=8,b=9,min area=54,placed in 6 and 10
+Layout5:l=9,b=8,min area=54
+Layout6:l=9,b=6,min area=54
+
+enclose complete n=3
+
+new i=5,j=7,k=3,l=0
+
+i=5,j=7,k=3,l=1
+
+placed 4,3
+
+placed 5,4
+
+placed 3,2
+
+placed 2,1
+
+place complete
+after place i=5,j=7,k=3,l=1
+
+enclose entered
+
+l1=4,b1=3,l2=5,b2=4,l3=3,b3=2,l4=2,b4=1
+Layout1:l=5,b=10,min area=50
+Layout2:l=7,b=9,min area=50
+Layout3:l=7,b=9,min area=50
+Layout4:l=8,b=8,min area=50,placed in 6 and 9
+Layout5:l=9,b=7,min area=50
+Layout6:l=9,b=6,min area=50
+
+enclose complete n=1
+
+new i=5,j=7,k=3,l=1
+
+exits l
+
+exits k
+
+exits j
+i=6,j=0,k=2,l=4
+
+placed 4,5
+
+placed 1,2
+
+placed 2,3
+
+placed 3,4
+
+place complete
+after place i=6,j=0,k=2,l=4
+
+enclose entered
+
+l1=4,b1=5,l2=1,b2=2,l3=2,b3=3,l4=3,b4=4
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=10,min area=56
+Layout3:l=7,b=10,min area=56
+Layout4:l=4,b=12,min area=48,placed in 6 and 9
+Layout5:l=5,b=12,min area=48
+Layout6:l=5,b=9,min area=45
+
+enclose complete n=1
+
+new i=6,j=0,k=2,l=4
+
+i=6,j=0,k=2,l=5
+
+placed 4,5
+
+placed 1,2
+
+placed 2,3
+
+placed 4,3
+
+place complete
+after place i=6,j=0,k=2,l=5
+
+enclose entered
+
+l1=4,b1=5,l2=1,b2=2,l3=2,b3=3,l4=4,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=10,min area=52
+Layout3:l=8,b=10,min area=52
+Layout4:l=4,b=11,min area=44,placed in 6 and 9
+Layout5:l=5,b=11,min area=44
+Layout6:l=6,b=8,min area=44
+
+enclose complete n=1
+
+new i=6,j=0,k=2,l=5
+
+exits l
+
+i=6,j=0,k=3,l=4
+
+placed 4,5
+
+placed 1,2
+
+placed 3,2
+
+placed 3,4
+
+place complete
+after place i=6,j=0,k=3,l=4
+
+enclose entered
+
+l1=4,b1=5,l2=1,b2=2,l3=3,b3=2,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=7,b=9,min area=52
+Layout4:l=4,b=11,min area=44,placed in 6 and 9
+Layout5:l=5,b=11,min area=44
+Layout6:l=6,b=9,min area=44
+
+enclose complete n=1
+
+new i=6,j=0,k=3,l=4
+
+i=6,j=0,k=3,l=5
+
+placed 4,5
+
+placed 1,2
+
+placed 3,2
+
+placed 4,3
+
+place complete
+after place i=6,j=0,k=3,l=5
+
+enclose entered
+
+l1=4,b1=5,l2=1,b2=2,l3=3,b3=2,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=8,b=9,min area=48
+Layout4:l=4,b=10,min area=40,placed in 6 and 9
+Layout5:l=5,b=10,min area=40
+Layout6:l=7,b=8,min area=40
+
+enclose complete n=1
+
+new i=6,j=0,k=3,l=5
+
+exits l
+
+i=6,j=0,k=4,l=2
+
+placed 4,5
+
+placed 1,2
+
+placed 3,4
+
+placed 2,3
+
+place complete
+after place i=6,j=0,k=4,l=2
+
+enclose entered
+
+l1=4,b1=5,l2=1,b2=2,l3=3,b3=4,l4=2,b4=3
+Layout1:l=4,b=14,min area=56
+Layout2:l=6,b=11,min area=56
+Layout3:l=6,b=11,min area=56
+Layout4:l=4,b=12,min area=48,placed in 6 and 9
+Layout5:l=5,b=12,min area=48
+Layout6:l=5,b=9,min area=45
+
+enclose complete n=1
+
+new i=6,j=0,k=4,l=2
+
+i=6,j=0,k=4,l=3
+
+placed 4,5
+
+placed 1,2
+
+placed 3,4
+
+placed 3,2
+
+place complete
+after place i=6,j=0,k=4,l=3
+
+enclose entered
+
+l1=4,b1=5,l2=1,b2=2,l3=3,b3=4,l4=3,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=11,min area=52
+Layout3:l=7,b=11,min area=52
+Layout4:l=4,b=11,min area=44,placed in 6 and 9
+Layout5:l=5,b=11,min area=44
+Layout6:l=6,b=9,min area=44
+
+enclose complete n=1
+
+new i=6,j=0,k=4,l=3
+
+exits l
+
+i=6,j=0,k=5,l=2
+
+placed 4,5
+
+placed 1,2
+
+placed 4,3
+
+placed 2,3
+
+place complete
+after place i=6,j=0,k=5,l=2
+
+enclose entered
+
+l1=4,b1=5,l2=1,b2=2,l3=4,b3=3,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=5,b=11,min area=52,placed in 6 and 9
+Layout5:l=5,b=11,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=6,j=0,k=5,l=2
+
+i=6,j=0,k=5,l=3
+
+placed 4,5
+
+placed 1,2
+
+placed 4,3
+
+placed 3,2
+
+place complete
+after place i=6,j=0,k=5,l=3
+
+enclose entered
+
+l1=4,b1=5,l2=1,b2=2,l3=4,b3=3,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=7,b=10,min area=48
+Layout4:l=5,b=10,min area=48,placed in 6 and 9
+Layout5:l=5,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=6,j=0,k=5,l=3
+
+exits l
+
+exits k
+
+i=6,j=1,k=2,l=4
+
+placed 4,5
+
+placed 2,1
+
+placed 2,3
+
+placed 3,4
+
+place complete
+after place i=6,j=1,k=2,l=4
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=1,l3=2,b3=3,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=7,b=9,min area=52
+Layout4:l=4,b=12,min area=48,placed in 6 and 9
+Layout5:l=6,b=12,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=6,j=1,k=2,l=4
+
+i=6,j=1,k=2,l=5
+
+placed 4,5
+
+placed 2,1
+
+placed 2,3
+
+placed 4,3
+
+place complete
+after place i=6,j=1,k=2,l=5
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=1,l3=2,b3=3,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=8,b=9,min area=48
+Layout4:l=4,b=11,min area=44,placed in 6 and 9
+Layout5:l=6,b=11,min area=44
+Layout6:l=6,b=8,min area=44
+
+enclose complete n=1
+
+new i=6,j=1,k=2,l=5
+
+exits l
+
+i=6,j=1,k=3,l=4
+
+placed 4,5
+
+placed 2,1
+
+placed 3,2
+
+placed 3,4
+
+place complete
+after place i=6,j=1,k=3,l=4
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=1,l3=3,b3=2,l4=3,b4=4
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=8,min area=48
+Layout3:l=7,b=8,min area=48
+Layout4:l=5,b=11,min area=48,placed in 6 and 9
+Layout5:l=6,b=11,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=6,j=1,k=3,l=4
+
+i=6,j=1,k=3,l=5
+
+placed 4,5
+
+placed 2,1
+
+placed 3,2
+
+placed 4,3
+
+place complete
+after place i=6,j=1,k=3,l=5
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=1,l3=3,b3=2,l4=4,b4=3
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=8,min area=44
+Layout3:l=8,b=8,min area=44
+Layout4:l=5,b=10,min area=44,placed in 6 and 9
+Layout5:l=6,b=10,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=6,j=1,k=3,l=5
+
+exits l
+
+i=6,j=1,k=4,l=2
+
+placed 4,5
+
+placed 2,1
+
+placed 3,4
+
+placed 2,3
+
+place complete
+after place i=6,j=1,k=4,l=2
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=1,l3=3,b3=4,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=5,b=12,min area=52,placed in 6 and 9
+Layout5:l=6,b=12,min area=52
+Layout6:l=6,b=9,min area=52
+
+enclose complete n=1
+
+new i=6,j=1,k=4,l=2
+
+i=6,j=1,k=4,l=3
+
+placed 4,5
+
+placed 2,1
+
+placed 3,4
+
+placed 3,2
+
+place complete
+after place i=6,j=1,k=4,l=3
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=1,l3=3,b3=4,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=7,b=10,min area=48
+Layout4:l=5,b=11,min area=48,placed in 6 and 9
+Layout5:l=6,b=11,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=6,j=1,k=4,l=3
+
+exits l
+
+i=6,j=1,k=5,l=2
+
+placed 4,5
+
+placed 2,1
+
+placed 4,3
+
+placed 2,3
+
+place complete
+after place i=6,j=1,k=5,l=2
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=1,l3=4,b3=3,l4=2,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=9,min area=48
+Layout3:l=6,b=9,min area=48
+Layout4:l=6,b=11,min area=48,placed in 6 and 9
+Layout5:l=6,b=11,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=6,j=1,k=5,l=2
+
+i=6,j=1,k=5,l=3
+
+placed 4,5
+
+placed 2,1
+
+placed 4,3
+
+placed 3,2
+
+place complete
+after place i=6,j=1,k=5,l=3
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=1,l3=4,b3=3,l4=3,b4=2
+Layout1:l=4,b=11,min area=44
+Layout2:l=7,b=9,min area=44
+Layout3:l=7,b=9,min area=44
+Layout4:l=6,b=10,min area=44,placed in 6 and 8
+Layout5:l=6,b=10,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=6,j=1,k=5,l=3
+
+exits l
+
+exits k
+
+i=6,j=2,k=0,l=4
+
+placed 4,5
+
+placed 2,3
+
+placed 1,2
+
+placed 3,4
+
+place complete
+after place i=6,j=2,k=0,l=4
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=3,l3=1,b3=2,l4=3,b4=4
+Layout1:l=4,b=14,min area=56
+Layout2:l=7,b=10,min area=56
+Layout3:l=7,b=10,min area=56
+Layout4:l=4,b=12,min area=48,placed in 6 and 8
+Layout5:l=6,b=11,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=6,j=2,k=0,l=4
+
+i=6,j=2,k=0,l=5
+
+placed 4,5
+
+placed 2,3
+
+placed 1,2
+
+placed 4,3
+
+place complete
+after place i=6,j=2,k=0,l=5
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=3,l3=1,b3=2,l4=4,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=8,b=10,min area=52
+Layout3:l=8,b=10,min area=52
+Layout4:l=4,b=11,min area=44,placed in 6 and 8
+Layout5:l=6,b=10,min area=44
+Layout6:l=6,b=8,min area=44
+
+enclose complete n=1
+
+new i=6,j=2,k=0,l=5
+
+exits l
+
+i=6,j=2,k=1,l=4
+
+placed 4,5
+
+placed 2,3
+
+placed 2,1
+
+placed 3,4
+
+place complete
+after place i=6,j=2,k=1,l=4
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=3,l3=2,b3=1,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=7,b=9,min area=52
+Layout4:l=4,b=12,min area=48,placed in 6 and 8
+Layout5:l=6,b=10,min area=48
+Layout6:l=6,b=9,min area=48
+
+enclose complete n=1
+
+new i=6,j=2,k=1,l=4
+
+i=6,j=2,k=1,l=5
+
+placed 4,5
+
+placed 2,3
+
+placed 2,1
+
+placed 4,3
+
+place complete
+after place i=6,j=2,k=1,l=5
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=3,l3=2,b3=1,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=8,b=9,min area=48
+Layout4:l=4,b=11,min area=44,placed in 6 and 8
+Layout5:l=6,b=9,min area=44
+Layout6:l=6,b=8,min area=44
+
+enclose complete n=1
+
+new i=6,j=2,k=1,l=5
+
+exits l
+
+i=6,j=2,k=4,l=0
+
+placed 4,5
+
+placed 2,3
+
+placed 3,4
+
+placed 1,2
+
+place complete
+after place i=6,j=2,k=4,l=0
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=3,l3=3,b3=4,l4=1,b4=2
+Layout1:l=4,b=14,min area=56
+Layout2:l=5,b=12,min area=56
+Layout3:l=5,b=12,min area=56
+Layout4:l=5,b=11,min area=55,placed in 6 and 8
+Layout5:l=6,b=11,min area=55
+Layout6:l=6,b=9,min area=54
+
+enclose complete n=1
+
+new i=6,j=2,k=4,l=0
+
+i=6,j=2,k=4,l=1
+
+placed 4,5
+
+placed 2,3
+
+placed 3,4
+
+placed 2,1
+
+place complete
+after place i=6,j=2,k=4,l=1
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=3,l3=3,b3=4,l4=2,b4=1
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=12,min area=52
+Layout3:l=6,b=12,min area=52
+Layout4:l=5,b=10,min area=50,placed in 6 and 8
+Layout5:l=6,b=10,min area=50
+Layout6:l=6,b=9,min area=50
+
+enclose complete n=1
+
+new i=6,j=2,k=4,l=1
+
+exits l
+
+i=6,j=2,k=5,l=0
+
+placed 4,5
+
+placed 2,3
+
+placed 4,3
+
+placed 1,2
+
+place complete
+after place i=6,j=2,k=5,l=0
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=3,l3=4,b3=3,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=5,b=11,min area=52
+Layout4:l=6,b=10,min area=52,placed in 6 and 8
+Layout5:l=6,b=10,min area=52
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=6,j=2,k=5,l=0
+
+i=6,j=2,k=5,l=1
+
+placed 4,5
+
+placed 2,3
+
+placed 4,3
+
+placed 2,1
+
+place complete
+after place i=6,j=2,k=5,l=1
+
+enclose entered
+
+l1=4,b1=5,l2=2,b2=3,l3=4,b3=3,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=6,b=11,min area=48
+Layout4:l=6,b=9,min area=48,placed in 6 and 8
+Layout5:l=6,b=9,min area=48
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=2
+
+new i=6,j=2,k=5,l=1
+
+exits l
+
+exits k
+
+i=6,j=3,k=0,l=4
+
+placed 4,5
+
+placed 3,2
+
+placed 1,2
+
+placed 3,4
+
+place complete
+after place i=6,j=3,k=0,l=4
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=2,l3=1,b3=2,l4=3,b4=4
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=9,min area=52
+Layout3:l=7,b=9,min area=52
+Layout4:l=4,b=11,min area=44,placed in 6 and 8
+Layout5:l=7,b=11,min area=44
+Layout6:l=7,b=9,min area=44
+
+enclose complete n=1
+
+new i=6,j=3,k=0,l=4
+
+i=6,j=3,k=0,l=5
+
+placed 4,5
+
+placed 3,2
+
+placed 1,2
+
+placed 4,3
+
+place complete
+after place i=6,j=3,k=0,l=5
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=2,l3=1,b3=2,l4=4,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=8,b=9,min area=48
+Layout3:l=8,b=9,min area=48
+Layout4:l=4,b=10,min area=40,placed in 6 and 8
+Layout5:l=7,b=10,min area=40
+Layout6:l=7,b=8,min area=40
+
+enclose complete n=1
+
+new i=6,j=3,k=0,l=5
+
+exits l
+
+i=6,j=3,k=1,l=4
+
+placed 4,5
+
+placed 3,2
+
+placed 2,1
+
+placed 3,4
+
+place complete
+after place i=6,j=3,k=1,l=4
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=2,l3=2,b3=1,l4=3,b4=4
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=8,min area=48
+Layout3:l=7,b=8,min area=48
+Layout4:l=5,b=11,min area=48,placed in 6 and 8
+Layout5:l=7,b=10,min area=48
+Layout6:l=7,b=9,min area=48
+
+enclose complete n=1
+
+new i=6,j=3,k=1,l=4
+
+i=6,j=3,k=1,l=5
+
+placed 4,5
+
+placed 3,2
+
+placed 2,1
+
+placed 4,3
+
+place complete
+after place i=6,j=3,k=1,l=5
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=2,l3=2,b3=1,l4=4,b4=3
+Layout1:l=4,b=11,min area=44
+Layout2:l=8,b=8,min area=44
+Layout3:l=8,b=8,min area=44
+Layout4:l=5,b=10,min area=44,placed in 6 and 8
+Layout5:l=7,b=9,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=6,j=3,k=1,l=5
+
+exits l
+
+i=6,j=3,k=4,l=0
+
+placed 4,5
+
+placed 3,2
+
+placed 3,4
+
+placed 1,2
+
+place complete
+after place i=6,j=3,k=4,l=0
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=2,l3=3,b3=4,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=5,b=11,min area=52
+Layout4:l=6,b=11,min area=52,placed in 6 and 8
+Layout5:l=7,b=11,min area=52
+Layout6:l=7,b=9,min area=52
+
+enclose complete n=1
+
+new i=6,j=3,k=4,l=0
+
+i=6,j=3,k=4,l=1
+
+placed 4,5
+
+placed 3,2
+
+placed 3,4
+
+placed 2,1
+
+place complete
+after place i=6,j=3,k=4,l=1
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=2,l3=3,b3=4,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=6,b=11,min area=48
+Layout4:l=6,b=10,min area=48,placed in 6 and 8
+Layout5:l=7,b=10,min area=48
+Layout6:l=7,b=9,min area=48
+
+enclose complete n=1
+
+new i=6,j=3,k=4,l=1
+
+exits l
+
+i=6,j=3,k=5,l=0
+
+placed 4,5
+
+placed 3,2
+
+placed 4,3
+
+placed 1,2
+
+place complete
+after place i=6,j=3,k=5,l=0
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=2,l3=4,b3=3,l4=1,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=5,b=10,min area=48
+Layout3:l=5,b=10,min area=48
+Layout4:l=7,b=10,min area=48,placed in 6 and 8
+Layout5:l=7,b=10,min area=48
+Layout6:l=7,b=8,min area=48
+
+enclose complete n=1
+
+new i=6,j=3,k=5,l=0
+
+i=6,j=3,k=5,l=1
+
+placed 4,5
+
+placed 3,2
+
+placed 4,3
+
+placed 2,1
+
+place complete
+after place i=6,j=3,k=5,l=1
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=2,l3=4,b3=3,l4=2,b4=1
+Layout1:l=4,b=11,min area=44
+Layout2:l=6,b=10,min area=44
+Layout3:l=6,b=10,min area=44
+Layout4:l=7,b=9,min area=44,placed in 6 and 8
+Layout5:l=7,b=9,min area=44
+Layout6:l=7,b=8,min area=44
+
+enclose complete n=1
+
+new i=6,j=3,k=5,l=1
+
+exits l
+
+exits k
+
+i=6,j=4,k=0,l=2
+
+placed 4,5
+
+placed 3,4
+
+placed 1,2
+
+placed 2,3
+
+place complete
+after place i=6,j=4,k=0,l=2
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=4,l3=1,b3=2,l4=2,b4=3
+Layout1:l=4,b=14,min area=56
+Layout2:l=6,b=11,min area=56
+Layout3:l=6,b=11,min area=56
+Layout4:l=4,b=12,min area=48,placed in 6 and 8
+Layout5:l=7,b=10,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=6,j=4,k=0,l=2
+
+i=6,j=4,k=0,l=3
+
+placed 4,5
+
+placed 3,4
+
+placed 1,2
+
+placed 3,2
+
+place complete
+after place i=6,j=4,k=0,l=3
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=4,l3=1,b3=2,l4=3,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=7,b=11,min area=52
+Layout3:l=7,b=11,min area=52
+Layout4:l=4,b=11,min area=44,placed in 6 and 8
+Layout5:l=7,b=9,min area=44
+Layout6:l=7,b=7,min area=44
+
+enclose complete n=1
+
+new i=6,j=4,k=0,l=3
+
+exits l
+
+i=6,j=4,k=1,l=2
+
+placed 4,5
+
+placed 3,4
+
+placed 2,1
+
+placed 2,3
+
+place complete
+after place i=6,j=4,k=1,l=2
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=4,l3=2,b3=1,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=5,b=12,min area=52,placed in 6 and 8
+Layout5:l=7,b=9,min area=52
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=6,j=4,k=1,l=2
+
+i=6,j=4,k=1,l=3
+
+placed 4,5
+
+placed 3,4
+
+placed 2,1
+
+placed 3,2
+
+place complete
+after place i=6,j=4,k=1,l=3
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=4,l3=2,b3=1,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=7,b=10,min area=48
+Layout4:l=5,b=11,min area=48,placed in 6 and 8
+Layout5:l=7,b=8,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=6,j=4,k=1,l=3
+
+exits l
+
+i=6,j=4,k=2,l=0
+
+placed 4,5
+
+placed 3,4
+
+placed 2,3
+
+placed 1,2
+
+place complete
+after place i=6,j=4,k=2,l=0
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=4,l3=2,b3=3,l4=1,b4=2
+Layout1:l=4,b=14,min area=56
+Layout2:l=5,b=12,min area=56
+Layout3:l=5,b=12,min area=56
+Layout4:l=5,b=11,min area=55,placed in 6 and 8
+Layout5:l=7,b=10,min area=55
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=6,j=4,k=2,l=0
+
+i=6,j=4,k=2,l=1
+
+placed 4,5
+
+placed 3,4
+
+placed 2,3
+
+placed 2,1
+
+place complete
+after place i=6,j=4,k=2,l=1
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=4,l3=2,b3=3,l4=2,b4=1
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=12,min area=52
+Layout3:l=6,b=12,min area=52
+Layout4:l=5,b=10,min area=50,placed in 6 and 8
+Layout5:l=7,b=9,min area=50
+Layout6:l=7,b=8,min area=50
+
+enclose complete n=1
+
+new i=6,j=4,k=2,l=1
+
+exits l
+
+i=6,j=4,k=3,l=0
+
+placed 4,5
+
+placed 3,4
+
+placed 3,2
+
+placed 1,2
+
+place complete
+after place i=6,j=4,k=3,l=0
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=4,l3=3,b3=2,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=5,b=11,min area=52
+Layout4:l=6,b=11,min area=52,placed in 6 and 8
+Layout5:l=7,b=9,min area=52
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=6,j=4,k=3,l=0
+
+i=6,j=4,k=3,l=1
+
+placed 4,5
+
+placed 3,4
+
+placed 3,2
+
+placed 2,1
+
+place complete
+after place i=6,j=4,k=3,l=1
+
+enclose entered
+
+l1=4,b1=5,l2=3,b2=4,l3=3,b3=2,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=6,b=11,min area=48
+Layout4:l=6,b=10,min area=48,placed in 6 and 8
+Layout5:l=7,b=8,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=6,j=4,k=3,l=1
+
+exits l
+
+exits k
+
+i=6,j=5,k=0,l=2
+
+placed 4,5
+
+placed 4,3
+
+placed 1,2
+
+placed 2,3
+
+place complete
+after place i=6,j=5,k=0,l=2
+
+enclose entered
+
+l1=4,b1=5,l2=4,b2=3,l3=1,b3=2,l4=2,b4=3
+Layout1:l=4,b=13,min area=52
+Layout2:l=6,b=10,min area=52
+Layout3:l=6,b=10,min area=52
+Layout4:l=5,b=11,min area=52,placed in 6 and 8
+Layout5:l=8,b=10,min area=52
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=6,j=5,k=0,l=2
+
+i=6,j=5,k=0,l=3
+
+placed 4,5
+
+placed 4,3
+
+placed 1,2
+
+placed 3,2
+
+place complete
+after place i=6,j=5,k=0,l=3
+
+enclose entered
+
+l1=4,b1=5,l2=4,b2=3,l3=1,b3=2,l4=3,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=7,b=10,min area=48
+Layout3:l=7,b=10,min area=48
+Layout4:l=5,b=10,min area=48,placed in 6 and 8
+Layout5:l=8,b=9,min area=48
+Layout6:l=8,b=5,min area=40
+
+enclose complete n=1
+
+new i=6,j=5,k=0,l=3
+
+exits l
+
+i=6,j=5,k=1,l=2
+
+placed 4,5
+
+placed 4,3
+
+placed 2,1
+
+placed 2,3
+
+place complete
+after place i=6,j=5,k=1,l=2
+
+enclose entered
+
+l1=4,b1=5,l2=4,b2=3,l3=2,b3=1,l4=2,b4=3
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=9,min area=48
+Layout3:l=6,b=9,min area=48
+Layout4:l=6,b=11,min area=48,placed in 6 and 8
+Layout5:l=8,b=9,min area=48
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=2
+
+new i=6,j=5,k=1,l=2
+
+i=6,j=5,k=1,l=3
+
+placed 4,5
+
+placed 4,3
+
+placed 2,1
+
+placed 3,2
+
+place complete
+after place i=6,j=5,k=1,l=3
+
+enclose entered
+
+l1=4,b1=5,l2=4,b2=3,l3=2,b3=1,l4=3,b4=2
+Layout1:l=4,b=11,min area=44
+Layout2:l=7,b=9,min area=44
+Layout3:l=7,b=9,min area=44
+Layout4:l=6,b=10,min area=44,placed in 8 and 6
+Layout5:l=8,b=8,min area=44
+Layout6:l=8,b=6,min area=44
+
+enclose complete n=1
+
+new i=6,j=5,k=1,l=3
+
+exits l
+
+i=6,j=5,k=2,l=0
+
+placed 4,5
+
+placed 4,3
+
+placed 2,3
+
+placed 1,2
+
+place complete
+after place i=6,j=5,k=2,l=0
+
+enclose entered
+
+l1=4,b1=5,l2=4,b2=3,l3=2,b3=3,l4=1,b4=2
+Layout1:l=4,b=13,min area=52
+Layout2:l=5,b=11,min area=52
+Layout3:l=5,b=11,min area=52
+Layout4:l=6,b=10,min area=52,placed in 8 and 6
+Layout5:l=8,b=10,min area=52
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=1
+
+new i=6,j=5,k=2,l=0
+
+i=6,j=5,k=2,l=1
+
+placed 4,5
+
+placed 4,3
+
+placed 2,3
+
+placed 2,1
+
+place complete
+after place i=6,j=5,k=2,l=1
+
+enclose entered
+
+l1=4,b1=5,l2=4,b2=3,l3=2,b3=3,l4=2,b4=1
+Layout1:l=4,b=12,min area=48
+Layout2:l=6,b=11,min area=48
+Layout3:l=6,b=11,min area=48
+Layout4:l=6,b=9,min area=48,placed in 8 and 6
+Layout5:l=8,b=9,min area=48
+Layout6:l=8,b=6,min area=48
+
+enclose complete n=2
+
+new i=6,j=5,k=2,l=1
+
+exits l
+
+i=6,j=5,k=3,l=0
+
+placed 4,5
+
+placed 4,3
+
+placed 3,2
+
+placed 1,2
+
+place complete
+after place i=6,j=5,k=3,l=0
+
+enclose entered
+
+l1=4,b1=5,l2=4,b2=3,l3=3,b3=2,l4=1,b4=2
+Layout1:l=4,b=12,min area=48
+Layout2:l=5,b=10,min area=48
+Layout3:l=5,b=10,min area=48
+Layout4:l=7,b=10,min area=48,placed in 8 and 6
+Layout5:l=8,b=9,min area=48
+Layout6:l=8,b=5,min area=40
+
+enclose complete n=1
+
+new i=6,j=5,k=3,l=0
+
+i=6,j=5,k=3,l=1
+
+placed 4,5
+
+placed 4,3
+
+placed 3,2
+
+placed 2,1
+
+place complete
+after place i=6,j=5,k=3,l=1
+
+enclose entered
+
+l1=4,b1=5,l2=4,b2=3,l3=3,b3=2,l4=2,b4=1
+Layout1:l=4,b=11,min area=44
+Layout2:l=6,b=10,min area=44
+Layout3:l=6,b=10,min area=44
+Layout4:l=7,b=9,min area=44,placed in 8 and 6
+Layout5:l=8,b=8,min area=44
+Layout6:l=8,b=7,min area=44
+
+enclose complete n=1
+
+new i=6,j=5,k=3,l=1
+
+exits l
+
+exits k
+
+exits j
+i=7,j=0,k=2,l=4
+
+placed 5,4
+
+placed 1,2
+
+placed 2,3
+
+placed 3,4
+
+place complete
+after place i=7,j=0,k=2,l=4
+
+enclose entered
+
+l1=5,b1=4,l2=1,b2=2,l3=2,b3=3,l4=3,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=8,b=9,min area=65
+Layout4:l=5,b=11,min area=55,placed in 8 and 6
+Layout5:l=6,b=11,min area=55
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=7,j=0,k=2,l=4
+
+i=7,j=0,k=2,l=5
+
+placed 5,4
+
+placed 1,2
+
+placed 2,3
+
+placed 4,3
+
+place complete
+after place i=7,j=0,k=2,l=5
+
+enclose entered
+
+l1=5,b1=4,l2=1,b2=2,l3=2,b3=3,l4=4,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=9,min area=60
+Layout3:l=9,b=9,min area=60
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=6,b=10,min area=50
+Layout6:l=6,b=7,min area=42
+
+enclose complete n=1
+
+new i=7,j=0,k=2,l=5
+
+exits l
+
+i=7,j=0,k=3,l=4
+
+placed 5,4
+
+placed 1,2
+
+placed 3,2
+
+placed 3,4
+
+place complete
+after place i=7,j=0,k=3,l=4
+
+enclose entered
+
+l1=5,b1=4,l2=1,b2=2,l3=3,b3=2,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=6,b=10,min area=50
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=7,j=0,k=3,l=4
+
+i=7,j=0,k=3,l=5
+
+placed 5,4
+
+placed 1,2
+
+placed 3,2
+
+placed 4,3
+
+place complete
+after place i=7,j=0,k=3,l=5
+
+enclose entered
+
+l1=5,b1=4,l2=1,b2=2,l3=3,b3=2,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=9,b=8,min area=55
+Layout4:l=5,b=9,min area=45,placed in 8 and 6
+Layout5:l=6,b=9,min area=45
+Layout6:l=7,b=7,min area=45
+
+enclose complete n=1
+
+new i=7,j=0,k=3,l=5
+
+exits l
+
+i=7,j=0,k=4,l=2
+
+placed 5,4
+
+placed 1,2
+
+placed 3,4
+
+placed 2,3
+
+place complete
+after place i=7,j=0,k=4,l=2
+
+enclose entered
+
+l1=5,b1=4,l2=1,b2=2,l3=3,b3=4,l4=2,b4=3
+Layout1:l=5,b=13,min area=65
+Layout2:l=7,b=10,min area=65
+Layout3:l=7,b=10,min area=65
+Layout4:l=5,b=11,min area=55,placed in 8 and 6
+Layout5:l=6,b=11,min area=55
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=7,j=0,k=4,l=2
+
+i=7,j=0,k=4,l=3
+
+placed 5,4
+
+placed 1,2
+
+placed 3,4
+
+placed 3,2
+
+place complete
+after place i=7,j=0,k=4,l=3
+
+enclose entered
+
+l1=5,b1=4,l2=1,b2=2,l3=3,b3=4,l4=3,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=10,min area=60
+Layout3:l=8,b=10,min area=60
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=6,b=10,min area=50
+Layout6:l=6,b=8,min area=48
+
+enclose complete n=1
+
+new i=7,j=0,k=4,l=3
+
+exits l
+
+i=7,j=0,k=5,l=2
+
+placed 5,4
+
+placed 1,2
+
+placed 4,3
+
+placed 2,3
+
+place complete
+after place i=7,j=0,k=5,l=2
+
+enclose entered
+
+l1=5,b1=4,l2=1,b2=2,l3=4,b3=3,l4=2,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=9,min area=60
+Layout3:l=7,b=9,min area=60
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=6,b=10,min area=50
+Layout6:l=6,b=7,min area=42
+
+enclose complete n=1
+
+new i=7,j=0,k=5,l=2
+
+i=7,j=0,k=5,l=3
+
+placed 5,4
+
+placed 1,2
+
+placed 4,3
+
+placed 3,2
+
+place complete
+after place i=7,j=0,k=5,l=3
+
+enclose entered
+
+l1=5,b1=4,l2=1,b2=2,l3=4,b3=3,l4=3,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=9,min area=55
+Layout3:l=8,b=9,min area=55
+Layout4:l=5,b=9,min area=45,placed in 8 and 6
+Layout5:l=6,b=9,min area=45
+Layout6:l=7,b=7,min area=45
+
+enclose complete n=1
+
+new i=7,j=0,k=5,l=3
+
+exits l
+
+exits k
+
+i=7,j=1,k=2,l=4
+
+placed 5,4
+
+placed 2,1
+
+placed 2,3
+
+placed 3,4
+
+place complete
+after place i=7,j=1,k=2,l=4
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=1,l3=2,b3=3,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=11,min area=55,placed in 8 and 6
+Layout5:l=7,b=11,min area=55
+Layout6:l=7,b=8,min area=55
+
+enclose complete n=1
+
+new i=7,j=1,k=2,l=4
+
+i=7,j=1,k=2,l=5
+
+placed 5,4
+
+placed 2,1
+
+placed 2,3
+
+placed 4,3
+
+place complete
+after place i=7,j=1,k=2,l=5
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=1,l3=2,b3=3,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=9,b=8,min area=55
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=7,b=10,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=7,j=1,k=2,l=5
+
+exits l
+
+i=7,j=1,k=3,l=4
+
+placed 5,4
+
+placed 2,1
+
+placed 3,2
+
+placed 3,4
+
+place complete
+after place i=7,j=1,k=3,l=4
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=1,l3=3,b3=2,l4=3,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=8,b=7,min area=55
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=7,b=10,min area=50
+Layout6:l=7,b=8,min area=50
+
+enclose complete n=1
+
+new i=7,j=1,k=3,l=4
+
+i=7,j=1,k=3,l=5
+
+placed 5,4
+
+placed 2,1
+
+placed 3,2
+
+placed 4,3
+
+place complete
+after place i=7,j=1,k=3,l=5
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=1,l3=3,b3=2,l4=4,b4=3
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=7,min area=50
+Layout3:l=9,b=7,min area=50
+Layout4:l=5,b=9,min area=45,placed in 8 and 6
+Layout5:l=7,b=9,min area=45
+Layout6:l=7,b=7,min area=45
+
+enclose complete n=1
+
+new i=7,j=1,k=3,l=5
+
+exits l
+
+i=7,j=1,k=4,l=2
+
+placed 5,4
+
+placed 2,1
+
+placed 3,4
+
+placed 2,3
+
+place complete
+after place i=7,j=1,k=4,l=2
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=1,l3=3,b3=4,l4=2,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=9,min area=60
+Layout3:l=7,b=9,min area=60
+Layout4:l=5,b=11,min area=55,placed in 8 and 6
+Layout5:l=7,b=11,min area=55
+Layout6:l=7,b=8,min area=55
+
+enclose complete n=1
+
+new i=7,j=1,k=4,l=2
+
+i=7,j=1,k=4,l=3
+
+placed 5,4
+
+placed 2,1
+
+placed 3,4
+
+placed 3,2
+
+place complete
+after place i=7,j=1,k=4,l=3
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=1,l3=3,b3=4,l4=3,b4=2
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=9,min area=55
+Layout3:l=8,b=9,min area=55
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=7,b=10,min area=50
+Layout6:l=7,b=8,min area=50
+
+enclose complete n=1
+
+new i=7,j=1,k=4,l=3
+
+exits l
+
+i=7,j=1,k=5,l=2
+
+placed 5,4
+
+placed 2,1
+
+placed 4,3
+
+placed 2,3
+
+place complete
+after place i=7,j=1,k=5,l=2
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=1,l3=4,b3=3,l4=2,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=8,min area=55
+Layout3:l=7,b=8,min area=55
+Layout4:l=6,b=10,min area=55,placed in 8 and 6
+Layout5:l=7,b=10,min area=55
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=7,j=1,k=5,l=2
+
+i=7,j=1,k=5,l=3
+
+placed 5,4
+
+placed 2,1
+
+placed 4,3
+
+placed 3,2
+
+place complete
+after place i=7,j=1,k=5,l=3
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=1,l3=4,b3=3,l4=3,b4=2
+Layout1:l=5,b=10,min area=50
+Layout2:l=8,b=8,min area=50
+Layout3:l=8,b=8,min area=50
+Layout4:l=6,b=9,min area=50,placed in 8 and 6
+Layout5:l=7,b=9,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=7,j=1,k=5,l=3
+
+exits l
+
+exits k
+
+i=7,j=2,k=0,l=4
+
+placed 5,4
+
+placed 2,3
+
+placed 1,2
+
+placed 3,4
+
+place complete
+after place i=7,j=2,k=0,l=4
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=3,l3=1,b3=2,l4=3,b4=4
+Layout1:l=5,b=13,min area=65
+Layout2:l=8,b=9,min area=65
+Layout3:l=8,b=9,min area=65
+Layout4:l=5,b=11,min area=55,placed in 8 and 6
+Layout5:l=7,b=10,min area=55
+Layout6:l=7,b=8,min area=55
+
+enclose complete n=1
+
+new i=7,j=2,k=0,l=4
+
+i=7,j=2,k=0,l=5
+
+placed 5,4
+
+placed 2,3
+
+placed 1,2
+
+placed 4,3
+
+place complete
+after place i=7,j=2,k=0,l=5
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=3,l3=1,b3=2,l4=4,b4=3
+Layout1:l=5,b=12,min area=60
+Layout2:l=9,b=9,min area=60
+Layout3:l=9,b=9,min area=60
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=7,b=9,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=7,j=2,k=0,l=5
+
+exits l
+
+i=7,j=2,k=1,l=4
+
+placed 5,4
+
+placed 2,3
+
+placed 2,1
+
+placed 3,4
+
+place complete
+after place i=7,j=2,k=1,l=4
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=3,l3=2,b3=1,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=11,min area=55,placed in 8 and 6
+Layout5:l=7,b=9,min area=55
+Layout6:l=7,b=8,min area=55
+
+enclose complete n=1
+
+new i=7,j=2,k=1,l=4
+
+i=7,j=2,k=1,l=5
+
+placed 5,4
+
+placed 2,3
+
+placed 2,1
+
+placed 4,3
+
+place complete
+after place i=7,j=2,k=1,l=5
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=3,l3=2,b3=1,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=9,b=8,min area=55
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=7,b=8,min area=50
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=7,j=2,k=1,l=5
+
+exits l
+
+i=7,j=2,k=4,l=0
+
+placed 5,4
+
+placed 2,3
+
+placed 3,4
+
+placed 1,2
+
+place complete
+after place i=7,j=2,k=4,l=0
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=3,l3=3,b3=4,l4=1,b4=2
+Layout1:l=5,b=13,min area=65
+Layout2:l=6,b=11,min area=65
+Layout3:l=6,b=11,min area=65
+Layout4:l=5,b=10,min area=50,placed in 8 and 6
+Layout5:l=7,b=10,min area=50
+Layout6:l=7,b=8,min area=50
+
+enclose complete n=1
+
+new i=7,j=2,k=4,l=0
+
+i=7,j=2,k=4,l=1
+
+placed 5,4
+
+placed 2,3
+
+placed 3,4
+
+placed 2,1
+
+place complete
+after place i=7,j=2,k=4,l=1
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=3,l3=3,b3=4,l4=2,b4=1
+Layout1:l=5,b=12,min area=60
+Layout2:l=7,b=11,min area=60
+Layout3:l=7,b=11,min area=60
+Layout4:l=5,b=9,min area=45,placed in 8 and 6
+Layout5:l=7,b=9,min area=45
+Layout6:l=7,b=8,min area=45
+
+enclose complete n=1
+
+new i=7,j=2,k=4,l=1
+
+exits l
+
+i=7,j=2,k=5,l=0
+
+placed 5,4
+
+placed 2,3
+
+placed 4,3
+
+placed 1,2
+
+place complete
+after place i=7,j=2,k=5,l=0
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=3,l3=4,b3=3,l4=1,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=6,b=10,min area=60
+Layout3:l=6,b=10,min area=60
+Layout4:l=6,b=9,min area=54,placed in 6 and 10
+Layout5:l=7,b=9,min area=54
+Layout6:l=7,b=7,min area=49
+
+enclose complete n=1
+
+new i=7,j=2,k=5,l=0
+
+i=7,j=2,k=5,l=1
+
+placed 5,4
+
+placed 2,3
+
+placed 4,3
+
+placed 2,1
+
+place complete
+after place i=7,j=2,k=5,l=1
+
+enclose entered
+
+l1=5,b1=4,l2=2,b2=3,l3=4,b3=3,l4=2,b4=1
+Layout1:l=5,b=11,min area=55
+Layout2:l=7,b=10,min area=55
+Layout3:l=7,b=10,min area=55
+Layout4:l=6,b=8,min area=48,placed in 6 and 10
+Layout5:l=7,b=8,min area=48
+Layout6:l=7,b=7,min area=48
+
+enclose complete n=1
+
+new i=7,j=2,k=5,l=1
+
+exits l
+
+exits k
+
+i=7,j=3,k=0,l=4
+
+placed 5,4
+
+placed 3,2
+
+placed 1,2
+
+placed 3,4
+
+place complete
+after place i=7,j=3,k=0,l=4
+
+enclose entered
+
+l1=5,b1=4,l2=3,b2=2,l3=1,b3=2,l4=3,b4=4
+Layout1:l=5,b=12,min area=60
+Layout2:l=8,b=8,min area=60
+Layout3:l=8,b=8,min area=60
+Layout4:l=5,b=10,min area=50,placed in 6 and 10
+Layout5:l=8,b=10,min area=50
+Layout6:l=8,b=8,min area=50
+
+enclose complete n=1
+
+new i=7,j=3,k=0,l=4
+
+i=7,j=3,k=0,l=5
+
+placed 5,4
+
+placed 3,2
+
+placed 1,2
+
+placed 4,3
+
+place complete
+after place i=7,j=3,k=0,l=5
+
+enclose entered
+
+l1=5,b1=4,l2=3,b2=2,l3=1,b3=2,l4=4,b4=3
+Layout1:l=5,b=11,min area=55
+Layout2:l=9,b=8,min area=55
+Layout3:l=9,b=8,min area=55
+Layout4:l=5,b=9,min area=45,placed in 6 and 10
+Layout5:l=8,b=9,min area=45
+Layout6:l=8,b=7,min area=45
+
+enclose complete n=1
+
+new i=7,j=3,k=0,l=5
+
+exits l
+
+i=7,j=3,k=1,l=4
+
+placed 5,4
+
+placed 3,2
+
+placed 2,1
+
+placed 3,4
+
+place complete
+after place i=7,j=3,k=1,l=4
+
+enclose entered
+
+l1=5,b1=4,l2=3,b2=2,l3=2,b3=1,l4=3,b4=4
+Layout1:l=5,b=11,min area=55
+Layout2:l=8,b=7,min area=55
+Layout3:l=8,b=7,min area=55
+Layout4:l=5,b=10,min area=50,placed in 6 and 10
+Layout5:l=8,b=9,min area=50
+Layout6:l=8,b=8,min area=50
+
+enclose complete n=1
+
+new i=7,j=3,k=1,l=4
+
+i=7,j=3,k=1,l=5
+
+placed 5,4
+
+placed 3,2
+
+placed 2,1
+
+placed 4,3
+
+place complete
+after place i=7,j=3,k=1,l=5
+
+enclose entered
+
+l1=5,b1=4,l2=3,b2=2,l3=2,b3=1,l4=4,b4=3
+Layout1:l=5,b=10,min area=50
+Layout2:l=9,b=7,min area=50
+Layout3:l=9,b=7,min area=50
+Layout4:l=5,b=9,min area=45,placed in 6 and 10
+Layout5:l=8,b=8,min area=45
+Layout6:l=8,b=7,min area=45
+
+enclose complete n=1
+
+new i=7,j=3,k=1,l=5
+
+exits l
+
+i=7,j=3,k=4,l=0
+
+placed 5,4
+
+placed 3,2
+
+placed 3,4
+
+placed 1,2
+
+place complete
+after place i=7,j=3,k=4,l=0
+
+enclose entered
+
+l1=5,b1=4,l2=3,b2=2,l3=3,b3=4,l4=1,b4=2
+Layout1:l=5,b=12,min area=60
+Layout2:l=6,b=10,min area=60
+Layout3:l=6,b=10,min area=60
+Layout4:l=6,b=10,min area=60,placed in 0 and 0
+Layout5:l=8,b=10,min area=60
+Layout6:l=8,b=8,min area=60
+
+exits l
+
+exits k
+
+exits j
+exits i
+final min=40,no. of sol.=1
